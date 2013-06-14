@@ -1,0 +1,23 @@
+
+$.ajax({
+  url: '',
+  type: 'GET',
+  async: false,
+  dataType: 'JSON',
+  success: function (data) {
+    
+  },
+  error: function (jqXHR, textStatus, errorThrown) {
+    alert(textStatus + ': ' + errorThrown);
+  }
+});
+
+$.getJSON(
+  '',
+  {
+    data: ''
+  },
+  function (data) { 
+      
+  }
+);
