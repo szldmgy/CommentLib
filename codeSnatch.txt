@@ -1,3 +1,7 @@
+//--------------------------------------------------------------
+// 
+// jQuery
+// 
 
 $.ajax({
   url: '',
@@ -21,3 +25,23 @@ $.getJSON(
       
   }
 );
+
+//--------------------------------------------------------------
+// 
+// C#
+// 
+
+public void ProcessRequest(HttpContext ctx) {
+
+  string callback = string.Empty,
+          json = string.Empty;
+
+  callback = ctx.Request.QueryString["callback"];
+
+  json = callback + "(" + json + ")";
+
+  ctx.Response.ContentType = "application/x-javascript";
+  ctx.Response.HeaderEncoding = Encoding.UTF8;
+  ctx.Response.ContentEncoding = Encoding.UTF8;
+  ctx.Response.Write(json);
+}
