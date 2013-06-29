@@ -5,6 +5,9 @@
 
 $.ajax({
   url: '',
+  data: {
+    arg1: 'val'
+  },
   type: 'GET',
   async: false,
   dataType: 'JSON',
