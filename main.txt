@@ -226,7 +226,7 @@ JavaScript
  HTML
 
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <meta name="Author" content="Ju2ender/Zhenda.jiang" />
+  <meta name="Author" content="Ju2ender" />
 
 <!-----------------------------------------------------------------------------------------------------------------
  - Page name:   Step5.html
