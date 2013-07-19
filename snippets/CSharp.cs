@@ -1,6 +1,6 @@
 ﻿//--------------------------------------------------------------
 // 
-// C#
+// Handler(.ashx file)
 // 
 
 public void ProcessRequest(HttpContext ctx) {
