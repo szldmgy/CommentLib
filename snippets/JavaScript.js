@@ -1,8 +1,4 @@
-﻿//--------------------------------------------------------------
-// 
-// jQuery
-// 
-
+﻿
 $.ajax({
   url: '',
   data: {
@@ -15,7 +11,7 @@ $.ajax({
     
   },
   error: function (jqXHR, textStatus, error) {
-    alert(textStatus + ': ' + error);
+    var msg = textStatus + ': ' + error;
   }
 });
 
@@ -25,5 +21,5 @@ $.getJSON('', {
     
 })
 .fail(function (jqXHR, textStatus, error) {
-  alert(textStatus + ': ' + error);
+  var msg = textStatus + ': ' + error;
 });
