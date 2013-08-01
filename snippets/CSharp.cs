@@ -15,7 +15,7 @@ public void ProcessRequest(HttpContext ctx) {
 
   callback = ctx.Request.QueryString["callback"];
   
-  pageIndex = string.IsNullOrEmpty(ctx.Request.QueryString["pi"]) ? 1 : Convert.ToInt32(ctx.Request.QueryString["pi"]);
+  pageIndex = string.IsNullOrEmpty(ctx.Request.QueryString["pi"]) ? 1 : int.Parse(ctx.Request.QueryString["pi"]);
 
   json = "{" +
            "\"list\":[" + json + "]," +
