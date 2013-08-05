@@ -1,5 +1,5 @@
 /*!
- * filename.js
+ * filename.sql
  * description
  * 
  * Created by Ju2ender on 2013-08-05 10:44:27.

@@ -1,23 +1,17 @@
---------------------------------------------------------------
-Flex MXML
+<!--
+ - filename.mxml
+ - description
+ - 
+ - Created by Ju2ender on 2013-08-05 10:44:27.
+ - Copyright (c) 2013 Ju2ender. All rights reserved.
+ - Released under the MIT license.
+ -->
 
-<!--===============================================================================================================
- = File name:   TopGroup.mxml
- = Description: 
- = Author:      Ju2ender
- = Create:      0009-00-00 Sunday 09:01:06
- = Update:      0009-00-00 Sunday 09:01:06
- ================================================================================================================-->
-
-
---------------------------------------------------------------
-Flex ActionScript
-
-/**************************************************************************************************************
- * File name:   ResizeOperation.as
- * Class Name:  ResizeOperation
- * Description: 元素变形工具栏
- * Author:      Ju2ender
- * Create:      0009-00-00 Sunday 09:01:06
- * Update:      0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
+/*!
+ * filename.as
+ * description
+ * 
+ * Created by Ju2ender on 2013-08-05 10:44:27.
+ * Copyright (c) 2013 Ju2ender. All rights reserved.
+ * Released under the MIT license.
+ */

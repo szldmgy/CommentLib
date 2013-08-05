@@ -1,4 +1,9 @@
-﻿// AJAX with out async
+﻿/*==============================================================
+ *
+ * AJAX with out async
+ *
+ */
+
 $.ajax({
   url: '',
   data: {
@@ -15,7 +20,12 @@ $.ajax({
   }
 });
 
-// 
+/*==============================================================
+ *
+ * A shortthand Ajax function of JSON Ajax
+ *
+ */
+
 $.getJSON('', {
   data: ''
 }, function (data) { 

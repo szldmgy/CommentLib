@@ -1,89 +1,35 @@
---------------------------------------------------------------
-类
+/*!
+ * class.cs
+ * description
+ * 
+ * Created by Ju2ender on 2013-08-05 10:44:27.
+ * Copyright (c) 2013 Ju2ender. All rights reserved.
+ * Released under the MIT license.
+ */
 
-/**************************************************************************************************************
- * Class name:  Comment.cs
- * Description: Comment
- * Author:      Ju2ender
- * Create:      0009-00-00 Sunday 09:01:06
- * Update:      0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
+/*!
+ * webService.asmx.cs
+ * description
+ * 
+ * Created by Ju2ender on 2013-08-05 10:44:27.
+ * Copyright (c) 2013 Ju2ender. All rights reserved.
+ * Released under the MIT license.
+ */
 
+/*!
+ * userControl.ascx.cs
+ * description
+ * 
+ * Created by Ju2ender on 2013-08-05 10:44:27.
+ * Copyright (c) 2013 Ju2ender. All rights reserved.
+ * Released under the MIT license.
+ */
 
---------------------------------------------------------------
-修改他人代码
-
-/**************************************************************************************************************
- * Class name:  CheckRegister.cs
- * Description: 
- * Create By:   Ju2ender
- * Create Date: 0009-00-00 Sunday 09:01:06
- * Alter By:    Ju2ender
- * Reviewer:    Ju2ender
- * Alter Date:  0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
-
-
---------------------------------------------------------------
-WinForm *.cs窗体
-
-/**************************************************************************************************************
- * Form name:   PublicMessageManage.cs
- * Description: 
- * Author:      Ju2ender
- * Create:      0009-00-00 Sunday 09:01:06
- * Update:      0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
-
-
---------------------------------------------------------------
-ASP.NET *.aspx页面
-
-/**************************************************************************************************************
- * Page name:   PublicMessageManage.aspx
- * Class Name:  PublicMessageManage.aspx.cs
- * Description: 
- * Author:      Ju2ender
- * Create:      0009-00-00 Sunday 09:01:06
- * Update:      0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
-
-
---------------------------------------------------------------
-ASP.NET WebService *.asmx页面
-
-/**************************************************************************************************************
- * WebService name: TopicWebService.asmx
- * Class Name:      TopicWebService.asmx.cs
- * Description:     品牌WebService
- * Author:          Ju2ender
- * Create:          0009-00-00 Sunday 09:01:06
- * Update:          0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
-
-
---------------------------------------------------------------
-ASP.NET *.ascx用户控件
-
-/**************************************************************************************************************
- * Page name:   UCGender.ascx
- * Class Name:  UCGender.ascx.cs
- * Description: 
- * Author:      Ju2ender
- * Create:      0009-00-00 Sunday 09:01:06
- * Update:      0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
-
-
---------------------------------------------------------------
-ASP.NET *.ashx HttpHandler
-
-/**************************************************************************************************************
- * Page name:   GetYearOfBirth.ashx
- * Class Name:  GetYearOfBirth.ashx.cs
- * Description: 
- * Author:      Ju2ender
- * Create:      0009-00-00 Sunday 09:01:06
- * Update:      0009-00-00 Sunday 09:01:06
- **************************************************************************************************************/
- 
+/*!
+ * httpHandler.ascx.cs
+ * description
+ * 
+ * Created by Ju2ender on 2013-08-05 10:44:27.
+ * Copyright (c) 2013 Ju2ender. All rights reserved.
+ * Released under the MIT license.
+ */
