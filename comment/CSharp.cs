@@ -26,7 +26,7 @@
  */
 
 /*!
- * httpHandler.ascx.cs
+ * httpHandler.ashx.cs
  * description
  * 
  * Created by Ju2ender on 2013-08-05 10:44:27.
