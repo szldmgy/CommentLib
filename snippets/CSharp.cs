@@ -11,11 +11,9 @@ public void ProcessRequest(HttpContext ctx) {
 
   int pageIndex = 0;
 
-  List<OrderComment> orderList = null;
-
   callback = ctx.Request.QueryString["callback"];
   
-  pageIndex = string.IsNullOrEmpty(ctx.Request.QueryString["pi"]) ? 1 : int.Parse(ctx.Request.QueryString["pi"]);
+  pageIndex = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 1 : int.Parse(ctx.Request.QueryString["arg"]);
 
   json = "{" +
            "\"list\":[" + json + "]," +
