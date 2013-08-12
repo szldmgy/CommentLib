@@ -6,8 +6,9 @@
 public void ProcessRequest(HttpContext ctx) {
 
   string callback = string.Empty,
-         json = string.Empty,
-         item = string.Empty;
+         json = string.Empty;
+
+  string[] items = null;
 
   int pageIndex = 0;
 
