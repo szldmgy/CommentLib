@@ -10,11 +10,11 @@ public void ProcessRequest(HttpContext ctx) {
 
   var items = new StringBuilder();
 
-  int pageIndex = 0;
+  int arg = 0;
 
   callback = ctx.Request.QueryString["callback"];
   
-  pageIndex = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 1 : int.Parse(ctx.Request.QueryString["arg"]);
+  arg = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 1 : int.Parse(ctx.Request.QueryString["arg"]);
 
   json = "{" +
            "\"list\":[" + json + "]," +
