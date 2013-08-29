@@ -8,7 +8,7 @@ public void ProcessRequest(HttpContext ctx) {
   string callback = string.Empty,
          json = string.Empty;
 
-  var items = new StringBuilder();
+  StringBuilder items = new StringBuilder();
 
   int arg = 0;
 
