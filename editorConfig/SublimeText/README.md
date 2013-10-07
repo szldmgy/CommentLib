@@ -12,6 +12,6 @@ User Key Bindings
 
 Sublime Text 中 User Key Bindings 存放于 Packages/User/Default ([Platform]).sublime-keymap 中。
 
-Linux   平台为：Default (Linux).sublime-keymap
-OS X    平台为：Default (OSX).sublime-keymap
-Windows 平台为：Default (Windows).sublime-keymap
+Linux   平台为：Default (Linux).sublime-keymap    
+OS X    平台为：Default (OSX).sublime-keymap    
+Windows 平台为：Default (Windows).sublime-keymap    
