@@ -1,9 +1,16 @@
 {
+  // Sets the colors used within the text area
+  "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme",
+
+  // Note that the font_face and font_size are overriden in the platform
+  // specific settings file, for example, "Preferences (Linux).sublime-settings".
+  // Because of this, setting them here will have no effect: you must set them
+  // in your User File Preferences.
+  "font_face": "Monaco",
+
   // The number of spaces a tab is considered equal to
   "tab_size": 2,
 
   // Set to true to insert spaces when tab is pressed
-  "translate_tabs_to_spaces": true,
-
-  "color_scheme": "Packages/Color Scheme - Default/Monokai Bright.tmTheme"
+  "translate_tabs_to_spaces": true
 }

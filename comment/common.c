@@ -42,7 +42,7 @@ constructor, Constructors - 构造函数
 --------------------------------------------------------------
 数组                        a                  aValue
 布尔型                      b                  bFound
-浮点型（数字）              f                  fValue
+浮点型（数字）               f                  fValue
 函数                        fn                 fnMethod
 整型（数字）                i                  iValue
 对象                        o                  oType
