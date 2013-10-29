@@ -1,4 +1,7 @@
 [
+  // 打开目录
   { "keys": ["ctrl+shift+o"], "command": "prompt_open_folder" },
+  
+  // 保存全部
   { "keys": ["ctrl+shift+s"], "command": "save_all" }
 ]
