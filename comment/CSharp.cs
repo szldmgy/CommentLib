@@ -2,8 +2,8 @@
  * class.cs
  * description
  * 
- * Created by Ju2ender on 2013-11-10 Sunday 11:18:14.
- * Updated by Ju2ender on 2013-11-10 Sunday 11:18:14.
+ * Created by Ju2ender on 2013-11-10 11:18:14.
+ * Updated by Ju2ender on 2013-11-10 11:18:14.
  * Copyright (c) 2013 Ju2ender. All rights reserved.
  * Released under the MIT license.
  * 
