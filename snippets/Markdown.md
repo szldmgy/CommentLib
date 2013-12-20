@@ -34,4 +34,4 @@ puts "Hello Markdown"
 跳转到其他页锚记链接
 --------------------
 
-[remote page top](http://url#top)
+[remote page top](https://github.com/Ju2ender/CommentLib/blob/master/snippets/Markdown.md#top)
