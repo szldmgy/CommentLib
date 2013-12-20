@@ -23,7 +23,7 @@ Console.WriteLine("Hello Markdown");
 ```
 
 ```Ruby
-puts Hello Markdown
+puts "Hello Markdown"
 ```
 
 当前页锚记链接
