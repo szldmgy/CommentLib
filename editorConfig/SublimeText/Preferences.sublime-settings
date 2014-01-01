@@ -12,5 +12,8 @@
   "tab_size": 2,
 
   // Set to true to insert spaces when tab is pressed
-  "translate_tabs_to_spaces": true
+  "translate_tabs_to_spaces": true,
+
+  // Columns in which to display vertical rulers
+  "rulers": [68]
 }
