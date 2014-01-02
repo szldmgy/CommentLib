@@ -15,5 +15,5 @@
   "translate_tabs_to_spaces": true,
 
   // Columns in which to display vertical rulers
-  "rulers": [68]
+  "rulers": [80]
 }
