@@ -1,6 +1,10 @@
 <a name="top">Markdown</a>
 ==========================
 
+参考：    
+[Markdown 语法说明 (简体中文版)][1]    
+[GitHub Flavored Markdown][2]
+
 单行代码
 --------
 
@@ -64,3 +68,6 @@ code:
 - item1
 - item2
 - item3
+
+[1]: http://wowubuntu.com/markdown/
+[2]: https://help.github.com/articles/github-flavored-markdown
