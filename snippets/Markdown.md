@@ -27,9 +27,9 @@
     line3
 
 ```
-line 1
-line 2
-line 3
+line1
+line2
+line3
 ```
 
 多行代码代指定语法着色
@@ -57,7 +57,8 @@ puts "Hello Markdown!"
 当前页锚记链接
 --------------
 
-注意要跳转到的锚记链接要使用 name 做标记，而不是 id。因为 JavaScript 也要使用 id，但 id 的名字并不一定都是那么的符合你锚记的意思，所以用 name 更友好些，你可以起个自己认为适合的 name 来用。
+注意要跳转到的锚记链接要使用 name 做标记，而不是 id。因为 JavaScript 也要使用 
+id，但 id 的名字并不一定都是那么的符合你锚记的意思，所以用 name 更友好些，你可以起个自己认为适合的 name 来用。
 
 [top](#top)    
 code:    
