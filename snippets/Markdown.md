@@ -35,14 +35,23 @@ line 3
 多行代码代指定语法着色
 ----------------------
 
-用三个“`”包围的代码还可为其指定着色语言。这个功能应该是对基本 Markdown 的扩展，目前只发现 GitHub 对该特性支持。
+用三个“`”包围的代码还可为其指定着色语言。这个功能是 GitHub Flavored Markdown 对 
+Markdown 的扩展。
 
-```C#
-Console.WriteLine("Hello Markdown");
+着色为 C：
+```C
+#include <stdio.h>
+
+int main(void) {
+  printf("Hello Markdown!");
+}
 ```
 
+着色为 Ruby：
 ```Ruby
-puts "Hello Markdown"
+#/usr/bin/env ruby
+
+puts "Hello Markdown!"
 ```
 
 当前页锚记链接
