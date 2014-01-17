@@ -2,4 +2,5 @@ colo molokai
 
 if has('gui_running')
 	set guifont=consolas:h9
+	set number
 endif
