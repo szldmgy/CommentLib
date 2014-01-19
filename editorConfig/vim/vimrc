@@ -1,8 +1,16 @@
-colo molokai
+" OS X
+" Save the config in ~/.vimrc, if not exist create it.
 
 if has('gui_running')
-  " theme
+  " colo is short for "colorscheme"
+  " Save the *.vim color scheme file to ~/.vim/colors folder
+  colo molokai
+
+  " set font family and size
+  " Windows
   set guifont=consolas:h9
+  " OS X
+  set guifont=Monaco:h12
 
   " show line number
   set number
@@ -22,5 +30,10 @@ if has('gui_running')
 
   " always uses spaces instead of tab characters
   set expandtab
+
+  set autoindent
+
+  set smartindent
+
 endif
 
