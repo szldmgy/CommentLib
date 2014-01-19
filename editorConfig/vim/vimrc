@@ -4,6 +4,7 @@
 if has('gui_running')
   " colo is short for "colorscheme"
   " Save the *.vim color scheme file to ~/.vim/colors folder
+
   colo molokai
 
   " set font family and size
