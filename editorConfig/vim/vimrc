@@ -1,9 +1,18 @@
 " OS X
-" Save the config in ~/.vimrc, if not exist create it.
+" Save the config to ~/.vimrc, if not exist create it.
+"
+" Windows
+" Save the config to D:\Program Files\Vim\_vimrc.
 
 if has('gui_running')
   " colo is short for "colorscheme"
-  " Save the *.vim color scheme file to ~/.vim/colors folder
+  "
+  " OS X
+  " Save the *.vim color scheme file to ~/.vim/colors folder.
+  "
+  " Windows
+  " Save the *.vim color scheme file to D:\Program Files\Vim\vimfiles\colors
+  " folder.
   colo molokai
 
   " set font family and size
