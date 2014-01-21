@@ -1,24 +1,13 @@
 " OS X
-" Save the config to ~/.vimrc, if not exist create it.
-"
-" Windows
-" Save the config to D:\Program Files\Vim\_vimrc.
+" Save the config to ~/.vimrc, if not exist create it
 
 if has('gui_running')
+  " Set color scheme
+  " Put color scheme file (*.vim) to ~/.vim/colors folder
   " colo is short for "colorscheme"
-  "
-  " OS X
-  " Save the *.vim color scheme file to ~/.vim/colors folder.
-  "
-  " Windows
-  " Save the *.vim color scheme file to D:\Program Files\Vim\vimfiles\colors
-  " folder.
   colo molokai
 
   " set font family and size
-  " Windows
-  set guifont=consolas:h9
-  " OS X
   set guifont=Monaco:h12
 
   " show line number
