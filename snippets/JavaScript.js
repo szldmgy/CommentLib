@@ -34,3 +34,4 @@ $.getJSON('', {
 .fail(function (jqXHR, textStatus, error) {
   var msg = textStatus + ': ' + error;
 });
+

@@ -17,3 +17,4 @@ GO
 -- 路径含有空格时要用双引号包围
 EXEC xp_cmdshell '"D:\\Program Files\\filename.exe"'
 GO
+
