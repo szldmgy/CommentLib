@@ -5,6 +5,12 @@
 language mes en
 set langmenu=en_US.UTF-8
 
+" set vim open file encoding
+set enc=UTF-8
+set tenc=UTF-8
+set fenc=UTF-8
+set fencs=UTF-8,usc-born
+
 set directory=.,$TEMP
 
 if has('gui_running')
@@ -42,17 +48,12 @@ if has('gui_running')
   " Include pathogen plugin
   execute pathogen#infect()
 
-  set enc=UTF-8
-  set tenc=UTF-8
-  set fenc=UTF-8
-  set fencs=UTF-8,usc-born
-
 endif
 
 " Show a ruler at 81 char.
 if exists('+colorcolumn')
-  set colorcolumn=80
+  set colorcolumn=81
 else
-   au BufWinEnter * let w:m2=matchadd('ErrorMsg', '\%>80v.\+', -1)
+   au BufWinEnter * let w:m2=matchadd('ErrorMsg', '\%>81v.\+', -1)
 endif
 
