@@ -1,4 +1,13 @@
-" OS X
+"!
+" OS.X.vimrc
+" v1.1
+" Vim config list for OS X, MacVim.
+"
+" Created by Ju2ender on 2014-01-26 14:24.
+" Copyright (c) 2014 Ju2ender. All rights reserved.
+" Released under the MIT license.
+" https://github.com/Ju2ender/CommentLib/blob/master/LICENSE 
+
 " Save the config to ~/.vimrc, if not exist create it
 
 if has('gui_running')
@@ -33,5 +42,13 @@ if has('gui_running')
 
   set smartindent
 
+endif
+
+" Show a ruler at 81 char.
+" This will give your a gray line at 81 char.
+if exists('+colorcolumn')
+  set colorcolumn=81
+else
+   au BufWinEnter * let w:m2=matchadd('ErrorMsg', '\%>81v.\+', -1)
 endif
 

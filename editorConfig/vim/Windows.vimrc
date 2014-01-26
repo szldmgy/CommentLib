@@ -1,11 +1,21 @@
-" Put this setting in your _vimrc file.
+"!
+" vimrc.Windowsu
+" v1.1
+" Vim config file for Windows, gVim.
+"
+" Created by Ju2ender on 2014-01-26 14:10.
+" Copyright (c) 2014 Ju2ender. All rights reserved.
+" Released under the MIT license.
+" https://github.com/Ju2ender/CommentLib/blob/master/LICENSE 
+
+" Put this settings in your _vimrc file.
 " In my computer, I save it in D:\Program Files\Vim\_vimrc 
 
 " Change gVim menu language to English
 language mes en
 set langmenu=en_US.UTF-8
 
-" set vim open file encoding
+" set vim open file encoding to UTF-8
 set enc=UTF-8
 set tenc=UTF-8
 set fenc=UTF-8
@@ -51,6 +61,7 @@ if has('gui_running')
 endif
 
 " Show a ruler at 81 char.
+" This will give your a red line at 81 char.
 if exists('+colorcolumn')
   set colorcolumn=81
 else
