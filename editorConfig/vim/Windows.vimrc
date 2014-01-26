@@ -55,6 +55,9 @@ if has('gui_running')
 
   set smartindent
 
+  " set window size, 85 chars, 50 lines.
+  winsize 85 50
+
   " Include pathogen plugin
   execute pathogen#infect()
 
