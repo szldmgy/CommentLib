@@ -29,8 +29,8 @@ Vim config
 
 ### pathogen & NERDTree ###
 
-[pathogen GitHub 主页][4]
-[NERDTree GitHub 主页][5]
+- [pathogen GitHub 主页][4]
+- [NERDTree GitHub 主页][5]
 
 **OS X**
 
