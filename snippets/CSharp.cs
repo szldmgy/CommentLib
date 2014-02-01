@@ -6,7 +6,7 @@
 public void ProcessRequest(HttpContext ctx) {
 
   string callback = string.Empty,
-         json = string.Empty;
+         json     = string.Empty;
 
   StringBuilder items = new StringBuilder();
 
@@ -14,10 +14,11 @@ public void ProcessRequest(HttpContext ctx) {
 
   callback = ctx.Request.QueryString["callback"];
   
-  arg = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 1 : int.Parse(ctx.Request.QueryString["arg"]);
+  arg = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 
+        1 : int.Parse(ctx.Request.QueryString["arg"]);
 
   json = "{" +
-           "\"list\":[" + json + "]," +
+           "\"list\":["  + json + "]," +
            "\"item\":\"" + item + "\"," +
            "\"item\":\"" + item + "\"" +
          "}";
