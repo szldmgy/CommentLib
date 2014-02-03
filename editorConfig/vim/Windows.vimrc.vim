@@ -1,5 +1,5 @@
 "!
-" Windows.vimrc
+" Windows.vimrc.vim
 " v1.1.1
 " Vim config file for Windows (gVim - Vim with GUI).
 "

@@ -4,14 +4,13 @@ Vim config
 - OS.X.vimrc.vim - OS X 平台上的 Vim 设置，目前针对 [MacVim][1]。
 - Windows.vimrc.vim - Windows 平台上的 Vim 设置，目前针对 [gVim][2]。
 
-前面的一段 OS.X 和 Windows 表示平台，vimrc 表示这是 Vim 配置文件，加上 .vim
+OS.X 和 Windows 表示平台，vimrc 表示这是 Vim 配置文件，加上 .vim
 后缀是为了让这个配置文件在 GitHub 上能被识别为 VimLisp 获得语法着色并能被统计到
 语言比例条形图中。
 
-我有想过把它们命名为 mvimrc 和 gvimrc，但这样有歧义，让人觉得这里面的配置是要放
-到相应的配置文件中。其实不然，OS X 平台要放到 `~/.vimrc` 中，Windows 平台要放到
-`'D:\Program Files\Vim\_vimrc'` 中。虽然 MacVim 和 gVim 是有自己的配置文件的，但
-还是建议初学者放到这两个配置文件中。
+我有想过把它们命名为 mvimrc 和 gvimrc，但这样容易让人觉得配置在 mvimrc 和 gvimrc
+中才是正确的。其实不然，OS X 平台放到 `~/.vimrc` 中，Windows 平台要放到
+`'D:\Program Files\Vim\_vimrc'` 中也是可以的。
 
 配置 Vim
 --------

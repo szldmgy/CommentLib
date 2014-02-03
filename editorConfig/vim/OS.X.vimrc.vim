@@ -1,5 +1,5 @@
 "!
-" OS.X.vimrc
+" OS.X.vimrc.vim
 " v1.1
 " Vim config list for OS X, MacVim.
 "
@@ -41,6 +41,9 @@ if has('gui_running')
   set autoindent
 
   set smartindent
+
+  " Init pathogen plugin
+  execute pathogen#infect()
 
 endif
 
