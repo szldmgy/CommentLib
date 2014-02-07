@@ -57,6 +57,13 @@ $ git clone https://github.com/scrooloose/nerdtree.git
 
 完成上面这些操作后你就可以将配置放到配置文件的最上面了。
 
+代码补全
+--------
+
+Vim 7 开始已经内置了 Omnicompletion System，所以可以直接使用。
+C-x C-o 关键词提示
+C-o C-n C-p 代码提示
+
 Happy vimming :)
 
 [1]: http://www.vim.org/download.php#mac
