@@ -45,6 +45,12 @@ if has('gui_running')
   " Init pathogen plugin
   execute pathogen#infect()
 
+  " Remove gVim's left scroll bar
+  set guioptions-=L
+
+  " Remove gVim's right scroll bar
+  set guioptions-=r
+
 endif
 
 " Show a ruler at 81 char.
