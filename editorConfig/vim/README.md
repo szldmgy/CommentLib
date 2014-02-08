@@ -60,7 +60,12 @@ $ git clone https://github.com/scrooloose/nerdtree.git
 代码补全
 --------
 
-Vim 7 开始已经内置了 Omnicompletion System，所以可以直接使用。
+Vim 7 开始已经内置了 Omnicompletion System，所以可以直接使用。在 insert 模式下，
+按下 C-n 或 C-p 打开提示面板，Vim 会遍历项目来查找相关提示，而不单单是在这一个页
+面。
+
+在提示面板中按 C-n 移动到下一个，按 C-p 移动到上一个。
+
 C-x C-o 关键词提示
 C-o C-n C-p 代码提示
 
