@@ -53,11 +53,10 @@ if has('gui_running')
 
 endif
 
-" Show a ruler at 81 char.
-" This will give your a gray line at 81 char.
+" Show a gray line at 81 char.
 if exists('+colorcolumn')
   set colorcolumn=81
 else
-   au BufWinEnter * let w:m2=matchadd('ErrorMsg', '\%>81v.\+', -1)
+  au BufWinEnter * let w:m2=matchadd('ErrorMsg', '\%>81v.\+', -1)
 endif
 
