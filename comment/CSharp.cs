@@ -1,4 +1,4 @@
-/*!
+/* !
  * class.cs
  * v1.0.0
  * description
@@ -9,15 +9,15 @@
  * https://website/LICENSE
  */
 
-/*!
+/* !
  * webService.asmx.cs
  */
 
-/*!
+/* !
  * userControl.ascx.cs
  */
 
-/*!
+/* !
  * httpHandler.ashx.cs
  */
 
