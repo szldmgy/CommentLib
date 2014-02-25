@@ -18,6 +18,19 @@ Windowns 7
 - HDTunePro5.0 硬盘管理。**微云** > Tool
 - Reflector7.5.2.1 .NET 反射工具 **微云** > dev > C# > ★ 反编译
 
+Workrave config
+---------------
+
+**暂停**    
+休息间隔：0:25:0    
+休息时长：0:5:0    
+延后时间：0:5:0
+
+**休息**
+休息间隔：2:0:0    
+休息时长：0:15:0    
+延后时间：0:5:0
+
 [1]: http://www.workrave.org/download/
 [2]: http://im.qq.com/download/pc.shtml
 [3]: http://www.vim.org/download.php
