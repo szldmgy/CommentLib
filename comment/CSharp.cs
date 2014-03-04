@@ -1,4 +1,4 @@
-/* !
+/*!
  * class.cs
  * v1.0.0
  * description

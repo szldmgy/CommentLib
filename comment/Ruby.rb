@@ -1,4 +1,6 @@
-# !
+#!/usr/bin/env ruby
+
+#!
 # class.rb
 # v1.0.0
 # description
