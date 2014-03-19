@@ -5,29 +5,29 @@
 
 public void ProcessRequest(HttpContext ctx) {
 
-  string callback = string.Empty,
-         json     = string.Empty;
+    string callback = string.Empty,
+           json     = string.Empty;
 
-  StringBuilder items = new StringBuilder();
+    StringBuilder items = new StringBuilder();
 
-  int arg = 0;
+    int arg = 0;
 
-  callback = ctx.Request.QueryString["callback"];
-  
-  arg = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 
+    callback = ctx.Request.QueryString["callback"];
+
+    arg = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 
         1 : int.Parse(ctx.Request.QueryString["arg"]);
 
-  json = "{" +
-           "\"list\":["  + json + "]," +
-           "\"item\":\"" + item + "\"," +
-           "\"item\":\"" + item + "\"" +
-         "}";
-  
-  json = callback + "(" + json + ")";
+    json = "{" +
+               "\"list\":["  + json + "]," +
+               "\"item\":\"" + item + "\"," +
+               "\"item\":\"" + item + "\"" +
+           "}";
 
-  ctx.Response.ContentType = "application/x-javascript";
-  ctx.Response.HeaderEncoding = Encoding.UTF8;
-  ctx.Response.ContentEncoding = Encoding.UTF8;
-  ctx.Response.Write(json);
+    json = callback + "(" + json + ")";
+
+    ctx.Response.ContentType = "application/x-javascript";
+    ctx.Response.HeaderEncoding = Encoding.UTF8;
+    ctx.Response.ContentEncoding = Encoding.UTF8;
+    ctx.Response.Write(json);
 }
 

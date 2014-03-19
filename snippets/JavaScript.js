@@ -5,19 +5,19 @@
  */
 
 $.ajax({
-  url: '',
-  data: {
-    arg1: 'val'
-  },
-  type: 'GET',
-  async: false,
-  dataType: 'JSON',
-  success: function (data) {
-    
-  },
-  error: function (jqXHR, textStatus, error) {
-    var msg = textStatus + ': ' + error;
-  }
+    url: '',
+    data: {
+        arg1: 'val'
+    },
+    type: 'GET',
+    async: false,
+    dataType: 'JSON',
+    success: function (data) {
+
+    },
+    error: function (jqXHR, textStatus, error) {
+        var msg = textStatus + ': ' + error;
+    }
 });
 
 /*==============================================================
@@ -27,11 +27,11 @@ $.ajax({
  */
 
 $.getJSON('', {
-  data: ''
+    data: ''
 }, function (data) { 
-    
+
 })
 .fail(function (jqXHR, textStatus, error) {
-  var msg = textStatus + ': ' + error;
+    var msg = textStatus + ': ' + error;
 });
 
