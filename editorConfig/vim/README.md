@@ -69,6 +69,21 @@ Vim 7 开始已经内置了 Omnicompletion System，所以可以直接使用。�
 C-x C-o 关键词提示
 C-o C-n C-p 代码提示
 
+Command
+-------
+
+`:wa` write all changed files (save all changes). and keep working.
+`:xa` exit all (save all changes and close Vim).
+`:qa` quit all (close Vim. but not if there are unsaved changes).
+`:qa!` quit all (close Vim without saving -- discard any changes).
+
+The `:wa` and `:xa` commands only write a file when its buffer has been changed.
+By contrast, the `:w` command always writes the current buffer to its file (use
+`:update` to save the current buffer only if it has been changed).
+
+Warning: If you enter `:qa!`. vim will discard all changes without asking "are
+you sure?"
+
 Happy vimming :)
 
 [1]: http://www.vim.org/download.php#mac
