@@ -28,7 +28,6 @@ local.properties
 # PDT-specific
 .buildpath
 
-
 #################
 ## Visual Studio
 #################
@@ -179,7 +178,6 @@ Desktop.ini
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 
-
 #############
 ## Python
 #############
@@ -210,10 +208,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-#vim
-*~
-*.swp
 
 # Mac crap
 .DS_Store

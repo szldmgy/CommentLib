@@ -24,19 +24,26 @@ set fencs=UTF-8,usc-born
 set directory=.,$TEMP
 
 if has('gui_running')
+  
+  " Set Vim don't create backup file.
+  set nobackup
+
+  " Set Vim don't create swap file.
+  set noswapfile
+
   " Set color scheme
   " Put color schem file (*.vim) to D:\Program Files\Vim\vimfiles\colors
   " colo is short for "colorscheme"
   colo molokai
 
   " Set font family and font size
-  set guifont=consolas:h9
+  set guifont = consolas:h9
 
   " Show line number
   set number
 
   " Size of a hard tabstop
-  set tabstop=2
+  set tabstop = 2
 
   " Size of an "indent"
   set shiftwidth=2
@@ -73,7 +80,7 @@ if has('gui_running')
 endif
 
 " Show a ruler at 81 char.
-" This will give you a red line at 81 char.
+" This will show a gray line at 81 char.
 if exists('+colorcolumn')
   set colorcolumn=81
 else

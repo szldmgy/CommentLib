@@ -11,6 +11,13 @@
 " Save the config to ~/.vimrc, if not exist create it
 
 if has('gui_running')
+
+  " Set Vim don't create backup file.
+  set nobackup
+
+  " Set Vim don't create swap file.
+  set noswapfile
+
   " Set color scheme
   " Put color scheme file (*.vim) to ~/.vim/colors folder
   " colo is short for "colorscheme"
