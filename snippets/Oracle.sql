@@ -1,5 +1,6 @@
 ---------------------------------------------
 -- Paging
+-- via: http://stackoverflow.com/questions/241622/paging-with-oracle
 -- 
 
 SELECT * 
