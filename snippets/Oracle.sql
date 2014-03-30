@@ -1,4 +1,4 @@
----------------------------------------------
+----------------------------------------------------------------
 -- Paging
 -- via: http://stackoverflow.com/questions/241622/paging-with-oracle
 -- 
@@ -17,4 +17,12 @@ FROM (
     WHERE rownum < ((pageNumber * pageSize) + 1)
 )
 WHERE rn >= (((pageNumber - 1) * pageSize) + 1)
+
+----------------------------------------------------------------
+-- Insert a DATE/TIME value into an Oracle table
+-- via: http://stackoverflow.com/questions/241622/paging-with-oracle
+-- 
+
+INSERT INTO table_name(date_field)
+VALUES(TO_DATE('2014/03/30 21:18:30', 'yyyy/mm/dd hh24:mi:ss'));
 
