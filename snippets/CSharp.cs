@@ -15,7 +15,7 @@ public void ProcessRequest(HttpContext ctx) {
     callback = ctx.Request.QueryString["callback"];
 
     arg = string.IsNullOrEmpty(ctx.Request.QueryString["arg"]) ? 
-        1 : int.Parse(ctx.Request.QueryString["arg"]);
+          1 : int.Parse(ctx.Request.QueryString["arg"]);
 
     json = "{" +
                "\"list\":["  + json + "]," +
