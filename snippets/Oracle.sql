@@ -8,10 +8,10 @@ FROM (
     SELECT o.*, 
            rownum rn
     FROM (
-    	SELECT * 
+        SELECT * 
         FROM ORDERS 
         WHERE CustomerID LIKE 'A%'
-    	ORDER BY OrderDate DESC, 
+        ORDER BY OrderDate DESC, 
                  ShippingDate DESC
     ) o
     WHERE rownum < ((pageNumber * pageSize) + 1)
