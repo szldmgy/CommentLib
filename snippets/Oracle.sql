@@ -26,3 +26,10 @@ WHERE rn >= (((pageNumber - 1) * pageSize) + 1)
 INSERT INTO table_name(date_field)
 VALUES(TO_DATE('2014/03/30 21:18:30', 'yyyy/mm/dd hh24:mi:ss'));
 
+----------------------------------------------------------------
+-- 查询不重复的记录
+-- 
+
+SELECT DISTINCT column_name
+from table_name
+
