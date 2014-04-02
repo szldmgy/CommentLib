@@ -31,3 +31,10 @@ public void ProcessRequest(HttpContext ctx) {
     ctx.Response.Write(json);
 }
 
+//--------------------------------------------------------------
+// 
+// Format DateTime, get month, day & day of week.
+// 
+
+string dateString = DateTime.Now.ToString("MM/dd ddd"); // => 04/02 周三
+
