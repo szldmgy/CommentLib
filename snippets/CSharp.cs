@@ -38,3 +38,5 @@ public void ProcessRequest(HttpContext ctx) {
 
 string dateString = DateTime.Now.ToString("MM/dd ddd"); // => 04/02 周三
 
+// Get previous page url.
+Request.UrlReferrer.ToString();
