@@ -35,3 +35,15 @@ $.getJSON('', {
     var msg = textStatus + ': ' + error;
 });
 
+/*==============================================================
+ *
+ * JavaScript create form.
+ *
+ */
+
+$("<form>", {
+    "action": "/member/trust.aspx",
+    "method": "POST",
+    html: "<input name=\"content\" type=\"text\" value=\"" + content + "\">"
+}).appendTo("body").submit();
+
