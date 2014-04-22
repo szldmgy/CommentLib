@@ -29,7 +29,7 @@ VALUES(TO_DATE('2014/03/30 21:18:30', 'yyyy/mm/dd hh24:mi:ss'));
 -- 
 
 SELECT DISTINCT column_name
-from table_name
+FROM table_name
 
 ----------------------------------------------------------------
 -- 进入表修改模式
@@ -51,29 +51,29 @@ ORDER BY columnA DESC, columnB ASC
 -- 获得系统时间的前一天的年月日部分
 --
 
-select trunc(sysdate - 1)
-from dual
+SELECT TRUNC(SYSDATE - 1)
+FROM dual
 
 ----------------------------------------------------------------
 -- 外链子查询与 case 用法
 --
 
 SELECT DISTINCT s.SPECIFICATION_NAME, s.PKID, 
-case 
-    when sl.recordCount is null then 0
-    else sl.recordCount
-end as recordCount
+CASE 
+    WHEN sl.recordCount IS NULL THEN 0
+    ELSE sl.recordCount
+END AS recordCount
 FROM TSPECIFICATION s
 LEFT OUTER JOIN TMATERIAL_TREE m 
 ON s.PKID = m.SPECIFICATION_ID 
 LEFT OUTER JOIN (
-    select DISTINCT SPECIFICATION_NAME, count(1) as recordCount
-    from TSEARCH_LOG
-    where trunc(added_time) = trunc(sysdate - 1)
-    group by SPECIFICATION_NAME
-    order by recordCount desc
+    SELECT DISTINCT SPECIFICATION_NAME, count(1) as recordCount
+    FROM TSEARCH_LOG
+    WHERE TRUNC(added_time) = TRUNC(SYSDATE - 1)
+    GROUP BY SPECIFICATION_NAME
+    ORDER BY recordCount DESC
 ) sl
 ON TRIM(s.SPECIFICATION_NAME) = TRIM(sl.SPECIFICATION_NAME)
 WHERE s.VALID = 'T' 
-ORDER BY recordCount desc, SPECIFICATION_NAME asc
+ORDER BY recordCount DESC, SPECIFICATION_NAME ASC
 
