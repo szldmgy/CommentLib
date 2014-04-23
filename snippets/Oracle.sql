@@ -45,14 +45,14 @@ FOR UPDATE
 
 SELECT *
 FROM table_name
-ORDER BY columnA DESC, columnB ASC
+ORDER BY columnA DESC, columnB ASC;
 
 ----------------------------------------------------------------
 -- 获得系统时间的前一天的年月日部分
 --
 
 SELECT TRUNC(SYSDATE - 1)
-FROM dual
+FROM dual;
 
 ----------------------------------------------------------------
 -- 外链子查询与 case 用法
@@ -75,5 +75,19 @@ LEFT OUTER JOIN (
 ) sl
 ON TRIM(s.SPECIFICATION_NAME) = TRIM(sl.SPECIFICATION_NAME)
 WHERE s.VALID = 'T' 
-ORDER BY recordCount DESC, SPECIFICATION_NAME ASC
+ORDER BY recordCount DESC, SPECIFICATION_NAME ASC;
+
+----------------------------------------------------------------
+-- 查询大于某个月份的记录
+--
+
+-- 如果字段是 DATE 型
+SELECT *
+FROM table_name
+WHERE date_column >= TRUNC(SYSDATE, 'mm');
+
+-- 如果字段是 VARCHAR 型
+SELECT *
+FROM table_name
+WHERE TO_DATE(date_column, 'mm/dd/yyy') >= TRUNC(SYSDATE, 'mm')
 
