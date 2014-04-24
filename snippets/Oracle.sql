@@ -100,8 +100,10 @@ WHERE TO_DATE(date_column, 'mm/dd/yyy') >= TRUNC(SYSDATE, 'mm')
 
 ----------------------------------------------------------------
 -- 求平均值精度超出，报 OCI-22053: overflow error 错误的解决方法
--- 使用 TRUNC 方法，截取小数位，保留指定的有效位数。
+-- 使用 TRUNC 方法，截取小数位，或使用 ROUND 方法，四舍五入，保留指定的有效位数。
+-- 价格类，更推荐使用 ROUND。
 --
 
+ROUND(AVG(price), 2)
 TRUNC(AVG(price), 2)
 
