@@ -45,14 +45,21 @@ FOR UPDATE
 
 SELECT *
 FROM table_name
-ORDER BY columnA DESC, columnB ASC
+ORDER BY columnA DESC, columnB ASC;
 
 ----------------------------------------------------------------
 -- 获得系统时间的前一天的年月日部分
 --
 
 SELECT TRUNC(SYSDATE - 1)
-FROM dual
+FROM dual;
+
+----------------------------------------------------------------
+-- 获得某个月的最后一天
+--
+
+SELECT TRUNC(LAST_DAY(TO_DATE('2014/4/23', 'yyyy/mm/dd')))
+FROM dual;
 
 ----------------------------------------------------------------
 -- 外链子查询与 case 用法
@@ -75,5 +82,29 @@ LEFT OUTER JOIN (
 ) sl
 ON TRIM(s.SPECIFICATION_NAME) = TRIM(sl.SPECIFICATION_NAME)
 WHERE s.VALID = 'T' 
-ORDER BY recordCount DESC, SPECIFICATION_NAME ASC
+ORDER BY recordCount DESC, SPECIFICATION_NAME ASC;
+
+----------------------------------------------------------------
+-- 查询大于某个月份的记录
+--
+
+-- 如果字段是 DATE 型
+SELECT *
+FROM table_name
+WHERE date_column >= TRUNC(SYSDATE, 'mm');
+
+-- 如果字段是 VARCHAR 型
+SELECT *
+FROM table_name
+WHERE TO_DATE(date_column, 'mm/dd/yyy') >= TRUNC(SYSDATE, 'mm')
+
+----------------------------------------------------------------
+-- 求平均值精度超出，报 OCI-22053: overflow error 错误的解决方法
+-- 原因通常是，使用的浮点数精度超过了 Oracle 所支持的范围。
+-- 使用 TRUNC 方法，截取小数位，或使用 ROUND 方法，四舍五入，保留指定的有效位数。
+-- 价格类，更推荐使用 ROUND。
+--
+
+ROUND(AVG(price), 2)
+TRUNC(AVG(price), 2)
 
