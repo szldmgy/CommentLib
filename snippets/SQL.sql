@@ -19,10 +19,11 @@ EXEC xp_cmdshell '"D:\\Program Files\\filename.exe"'
 GO
 
 ----------------------------------------------------------------
--- Paging
+-- 分页存储过程，并带条件，可为空。包含字符型、整型、布尔型的处理。
+-- 日期型，见下一个技巧。
 -- 
 
-ALTER procedure [dbo].[sp_PagingSysUser]
+create procedure [dbo].[sp_PagingSysUser]
     @LoginName nvarchar(50) = null,
     @Realname nvarchar(100) = null,
     @IsAdmin bit = null,
@@ -55,4 +56,10 @@ begin
     WHERE rowNumber > (@pageNo - 1) * @pageSize
     AND rowNumber <= @pageNo * @pageSize
 end
+
+----------------------------------------------------------------
+-- 将日期转换为 月-日-年 格式，以方便条件比对。
+-- 
+
+print convert(varchar(10), getDate(), 110) -- => '04-27-2014'
 
