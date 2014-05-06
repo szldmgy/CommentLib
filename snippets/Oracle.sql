@@ -108,3 +108,15 @@ WHERE TO_DATE(date_column, 'mm/dd/yyy') >= TRUNC(SYSDATE, 'mm')
 ROUND(AVG(price), 2)
 TRUNC(AVG(price), 2)
 
+----------------------------------------------------------------
+-- 获取前 N 条数据。
+--
+
+SELECT T.*,
+rowNum rn
+FROM (
+    select *
+    from tableName
+) T
+WHERE rowNum <= 10
+
