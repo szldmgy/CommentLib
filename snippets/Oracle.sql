@@ -112,11 +112,11 @@ TRUNC(AVG(price), 2)
 -- 获取前 N 条数据。
 --
 
-SELECT T.*,
-rowNum rn
-FROM (
+select T.*,
+rowNum 
+from (
     select *
     from tableName
 ) T
-WHERE rowNum <= 10
+where rowNum <= 10
 
