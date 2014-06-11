@@ -7,3 +7,6 @@ $(selector).hasClass("className");
 // Get an element's index of parent element.
 $(selector).index();
 
+// Name selector
+$("[name='elementName']")
+
