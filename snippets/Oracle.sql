@@ -14,7 +14,7 @@ FROM (
     ) T
     WHERE rownum < ((pageNumber * pageSize) + 1)
 )
-WHERE rn >= (((pageNumber - 1) * pageSize) + 1)
+WHERE rn >= (((pageNumber - 1) * pageSize) + 1);
 
 ----------------------------------------------------------------
 -- Insert a DATE/TIME value into an Oracle table
@@ -113,10 +113,21 @@ TRUNC(AVG(price), 2)
 --
 
 select T.*,
-rowNum 
+       rowNum 
 from (
     select *
     from tableName
 ) T
 where rowNum <= 10
 
+-- 获取系统时间、系统时间串
+sysDate, sysTimeStamp
+
+-- 存储过程中条件的处理
+v_number_param int 
+v_varchar_param varchar(50)
+
+select *
+from Table
+where (v_number_param = -1 or number_column = v_number_param)
+and (v_varchar_param is null or varchar_column = v_varchar_param)
