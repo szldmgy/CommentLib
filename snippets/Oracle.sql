@@ -137,3 +137,28 @@ select *
 from Table
 where (v_number_param = -1 or number_column = v_number_param)
 and (v_varchar_param is null or varchar_column = v_varchar_param)
+
+----------------------------------------------------------------
+-- 存储过程中对返回表集合的处理
+--
+
+procedure GetSomeList (
+    v_param_1 int,
+    v_param_2 int,
+    RetCursor out myCursor
+);
+
+procedure GetSomeList (
+    v_param_1 int,
+    v_param_2 int,
+    RetCursor out myCursor
+)
+is
+begin
+
+open RetCursor for select *
+from someTable
+where (v_param_1 = -1 or column_1 = v_param_1)
+and (v_param_2 = -1 or column_2 = v_param_2);
+
+end;
