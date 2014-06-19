@@ -162,3 +162,29 @@ where (v_param_1 = -1 or column_1 = v_param_1)
 and (v_param_2 = -1 or column_2 = v_param_2);
 
 end;
+
+----------------------------------------------------------------
+-- 存储过程中返回操作成功的数据条数
+--
+/* 
+ * 修改开放平台资源审核状态
+ */
+PROCEDURE GetPopStockItemByPopStockID (
+    v_POP_STOCK_ID TPOP_STOCK.STOCK_ID%type, -- 资源 ID
+    v_AUDIT_STATUS TPOP_STOCK.AUDIT_STATUS%type, -- 资源审核状态
+    v_AUDITED_BY TPOP_STOCK.AUDITED_BY%type, -- 资源审核人 ID
+    v_COUNT OUT NUMBER -- 操作成功数据条数
+)
+IS
+BEGIN
+
+update TPOP_STOCK
+set AUDIT_STATUS = v_AUDIT_STATUS,
+    AUDITED_BY = v_AUDITED_BY,
+    AUDITED_TIME = sysTimeStamp,
+    LAST_MODIFIED_TIME = sysTimeStamp
+where PKID = v_POP_STOCK_ID;
+
+v_COUNT := SQL%ROWCOUNT;
+
+END GetPopStockItemByPopStockID;
