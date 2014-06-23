@@ -166,6 +166,7 @@ end;
 ----------------------------------------------------------------
 -- 存储过程中返回操作成功的数据条数
 --
+
 /* 
  * 修改开放平台资源审核状态
  */
@@ -188,3 +189,48 @@ where PKID = v_POP_STOCK_ID;
 v_COUNT := SQL%ROWCOUNT;
 
 END GetPopStockItemByPopStockID;
+
+----------------------------------------------------------------
+-- insert 数据的时候用 select 查询符合的数据插入进去
+--
+
+insert into TSALES_ORDER_LOG(
+    PKID,
+    SALES_ORDER_ID,
+    SALES_ORDER_CODE,
+    BILL_TYPE,
+    BILL_ID,
+    BILL_CODE,
+    OPERATE_TYPE,
+    REMARK,
+    ADDED_BY,
+    ADDED_TIME,
+    LAST_MODIFIED_BY,
+    LAST_MODIFIED_TIME,
+    LAST_MODIFIED_IP,
+    VALID
+)
+(
+    select SQ_TSALES_ORDER_LOG.NEXTVAL,
+           mainBill.SUPPLIER_ID,
+           relation.SALES_ORDER_ID,
+           salesOrder.ORDER_CODE,
+           mainBill.BILL_TYPE,
+           mainBill.PKID,
+           mainBill.REQUEST_CODE,
+           39,
+           v_OPERATOR_ID,
+           sysDate,
+           null,
+           null,
+           null,
+           'T'
+    from TSUPPLIER_DISBURS_SO_RELATION relation
+    left join TSALES_ORDER salesOrder
+    on relation.SALES_ORDER_ID = salesOrder.PKID
+    left join TSUPPLIER_DISBURSEMENTS mainBill
+    on relation.SUPPLIER_DISBURSEMENTS_ID = mainBill.PKID
+    and relation.valid = 'T'
+    and salesOrder.valid = 'T'
+    and mainBill.valid = 'T'
+);
