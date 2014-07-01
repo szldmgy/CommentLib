@@ -28,6 +28,6 @@ Settings > Text > Select Antialias Text（反锯齿）
 常用软件
 -------
 
-**iTerm2**
-[Official website](http://www.iterm2.com/#/section/downloads)
+[iTerm2](http://www.iterm2.com/#/section/downloads)
 
+[Mou](http://mouapp.com)
