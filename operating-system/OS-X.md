@@ -34,3 +34,5 @@ Settings > Text > Select Antialias Text（反锯齿）
 Markdown 编辑器。
 
 [QQ Pinyin](http://qq.pinyin.cn/)
+
+[QQ](http://im.qq.com/macqq/index.shtml)
