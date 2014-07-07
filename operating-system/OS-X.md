@@ -36,3 +36,5 @@ Markdown 编辑器。
 [QQ Pinyin](http://qq.pinyin.cn/)
 
 [QQ](http://im.qq.com/macqq/index.shtml)
+
+[海词词典](http://cidian.dict.cn/mac.html)
