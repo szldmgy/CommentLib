@@ -4,20 +4,24 @@ OS X
 System Preferences
 ------------------
 
-**Language & Region**
+**Language & Region**    
 Preferred languages: English - Primary, Chinese (Simplified)
 
-**General**
+**General**    
 Appearance: Graphite
 Highlight color: Green
 
-**Sharing**
+**Sharing**    
 Computer Name: Ju2ender’s MacBook Pro
+
+**Keyboard**    
+Full Keyboard Access: In windows and dialogs, press Tab to move keyboard focus
+between: All controls.（选择这个就能让你用 Tab 键切换对话框中的按钮了）
 
 Finder Preferences
 ------------------
 
-**Advanced**
+**Advanced**    
 Show all filename extensions
 
 Terminal Preferences
