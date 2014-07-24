@@ -1,4 +1,4 @@
-Shortcut
+shortcuts
 ========
 
 左缩进 command + [    
