@@ -12,3 +12,5 @@ Xcode 中 Objective-C 的块注释
 ```
 #pragma mark - Block name
 ```
+
+在输出窗口中输入 po 跟上变量名可打印出变量的值。
