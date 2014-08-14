@@ -32,7 +32,7 @@ Settings > Text > Select Antialias Text（反锯齿）
 字体选择
 -------
 
-编辑器一律选择 Menlo
+编辑器一律选择 Monaco
 
 常用软件
 -------

@@ -6,7 +6,7 @@
     // specific settings file, for example, "Preferences (Linux).sublime-settings".
     // Because of this, setting them here will have no effect: you must set them
     // in your User File Preferences.
-    "font_face": "Menlo",
+    "font_face": "Monaco",
 
     // The number of spaces a tab is considered equal to
     "tab_size": 4,
