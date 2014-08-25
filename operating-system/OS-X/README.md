@@ -4,19 +4,23 @@ OS X
 System Preferences
 ------------------
 
-**Language & Region**
+**Language & Region**    
 Preferred languages: English - Primary, Chinese (Simplified)
 
-**General**
-Appearance: Graphite
-Highlight color: Green
+**General**    
+Appearance: Graphite    
+Highlight color: Green    
 
-**Sharing**
-Computer Name: Ju2ender’s MacBook Pro
+**Sharing**    
+Computer Name: Ju2ender’s MacBook Pro    
 
-**Keyboard**
+**Keyboard**    
 Full Keyboard Access: In windows and dialogs, press Tab to move keyboard focus
-between: All controls.（选择这个就能让你用 Tab 键切换对话框中的按钮了）
+between: All controls.（选择这个就能让你用 Tab 键切换对话框中的按钮了）    
+
+**Users & Groups**    
+Login Options    
+disable "Show fast user switching menu as xxx"（禁用这项，选中的话头部菜单栏会出现当前登录用户的用户名，占用菜单栏长度。）    
 
 Finder Preferences
 ------------------
