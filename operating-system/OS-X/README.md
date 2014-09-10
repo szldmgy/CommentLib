@@ -33,6 +33,11 @@ Terminal Preferences
 
 Settings > Text > Select Antialias Text（反锯齿）
 
+去掉 Finder 文件预览功能，提高流畅性
+--------------------------------
+
+View Menu > Show View Options，去掉 Show Icon preview 和 Show preview column
+
 字体选择
 -------
 
