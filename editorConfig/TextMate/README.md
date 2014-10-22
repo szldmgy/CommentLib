@@ -1,7 +1,7 @@
 TextMate
 ========
 
-估计 TextMate 是我最后使用，并会一直使用下去的文本编辑器了。TextMate 名气很大，在 Sublime Text
+估计 TextMate 是我最后使用、并会一直使用下去的文本编辑器了。TextMate 名气很大，在 Sublime Text
 之前就知道，但却选择去用 Sublime Text。现在又回过来用很大一部分原因是 TextMate 2 已经在 GitHub
 上开源，完全可定制。Sublime Text 必源不说，还总是弹出提示让我付费，很是烦人。所以又回到了 TextMate
 的怀抱。并决定参与到 TextMate 的优化当中。
