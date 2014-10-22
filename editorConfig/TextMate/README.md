@@ -87,11 +87,11 @@ TextMate
     
     删除后重新输入 `./configure && ninja` 进行编译即可，默认会编译到 `/Users/Ju2ender/build/TextMate/Applications/TextMate` 下。Ju2ender 是我的名字，你的注意替换成自己的。
 
-1: https://github.com/textmate/textmate
-2: https://github.com/Homebrew/homebrew
-3: http://www.complang.org/ragel/
-4: http://www.boost.org/
-5: http://fletcherpenney.net/multimarkdown/
-6: http://mercurial.selenic.com/
-7: http://martine.github.com/ninja/
-8: http://kentonv.github.io/capnproto/
+[1]: https://github.com/textmate/textmate
+[2]: https://github.com/Homebrew/homebrew
+[3]: http://www.complang.org/ragel/
+[4]: http://www.boost.org/
+[5]: http://fletcherpenney.net/multimarkdown/
+[6]: http://mercurial.selenic.com/
+[7]: http://martine.github.com/ninja/
+[8]: http://kentonv.github.io/capnproto/
