@@ -85,7 +85,7 @@ TextMate
     
     可将对应的测试文件删除，在我这里是 `/Users/Ju2ender/dev/textmate/Frameworks/network/tests/t_download.cc` 和 `/Users/Ju2ender/dev/textmate/Frameworks/SoftwareUpdate/tests/t_sw_update.cc`。
     
-    删除后重新输入 `./configure && ninja` 进行编译即可，默认会编译到 `/Users/Ju2ender/build/TextMate/Applications/TextMate` 下。Ju2ender 是我的名字，你的注意替换成自己的。
+    删除后重新输入 `./configure && ninja` 进行编译即可，默认会编译到 `/Users/Ju2ender/build/TextMate/Applications/TextMate` 下。`Ju2ender` 是我的名字，注意替换成自己的。
 
 [1]: https://github.com/textmate/textmate
 [2]: https://github.com/Homebrew/homebrew
