@@ -18,3 +18,11 @@ CommentLib
 其中 Sublime Text 不再更新。因为我转而使用更强大的 Vim。我甚至给 Visual Studio
 装上了 Vim 插件 VsVim。自己去使用下才能体会到我为什么这么喜爱它。
 
+新浪微博降级
+-----------
+
+在控制台中输入
+
+```JavaScript
+document.cookie = 'wvr6=0';
+```
