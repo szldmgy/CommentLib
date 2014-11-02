@@ -5,6 +5,8 @@ GitHub Projects
 
 [props2js][1]: 主语言 Java。作用是将 Java 属性文件转换为 JSON、JSONP 或 JavaScript 的文件。从而在 JavaScript 中实现写死（hardcoded）代码和逻辑代码的分离。
 
+[maven-guide-zh][9]: 主语言 Java。《Maven 权威指南》一书的中文版。Maven 是 Java 平台一个很有名的包管理器。
+
 [novocaine][2]: 主语言 Objective-C、Objective-C++、C++。可以从 Mac、iOS 设备中获取音频和播放音频。获取音频通过话筒。
 
 [diumoo][3]: 主语言 Objective-C。一个 OS X 端的 douban FM 播放器。
@@ -25,3 +27,4 @@ GitHub Projects
 [6]: http://book.douban.com/review/5465791/
 [7]: https://github.com/Ju2ender/Lucky
 [8]: https://github.com/Ju2ender/coursera
+[9]: https://github.com/Ju2ender/maven-guide-zh
