@@ -10,6 +10,8 @@ Java
 
 [maven-guide-zh][9]: Language Java. 《Maven 权威指南》一书的中文版。Maven 是 Java 平台一个很有名的包管理器。
 
+[identicon][12]: Language Java, JavaScript. Identicon 是一种基于用户信息的哈希值生成图像的技术，通常使用用户登录时的IP地址作为输入值，并作为生成新建用户时的初始化头像用于保护用户隐私。其雏形是由九个方格构成的图案，现在第三方开发还有其他类型的生成模式。详见 [wiki][13]。
+
 Objective-C
 -----------
 
@@ -46,3 +48,5 @@ Cocos2d-JS
 [9]: https://github.com/Ju2ender/maven-guide-zh
 [10]: https://github.com/Ju2ender/MoonWarriors
 [11]: https://github.com/Ju2ender/cocos2d-js
+[12]: https://github.com/Ju2ender/identicon
+[13]: http://zh.wikipedia.org/wiki/Identicon
