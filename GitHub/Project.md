@@ -30,6 +30,13 @@ Python
 
 [coursera][8]: Language Python, Shell. 从 Coursera.org 上下载视频并为其命名。
 
+JavaScript
+----------
+
+[bower][14]: Language JavaScript. 一个为 Web 开发人员准备的包管理器，依赖 Node.js 环境。
+
+[Framework7][15]: Language JavaScript, CSS. 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
+
 Cocos2d-JS
 ----------
 
@@ -50,3 +57,5 @@ Cocos2d-JS
 [11]: https://github.com/Ju2ender/cocos2d-js
 [12]: https://github.com/Ju2ender/identicon
 [13]: http://zh.wikipedia.org/wiki/Identicon
+[14]: https://github.com/bower/bower
+[15]: https://github.com/nolimits4web/Framework7
