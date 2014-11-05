@@ -1,4 +1,4 @@
-[bret][1]: 苹果公司的一位设计师，Swift 因他而生。具体可详见[Bret Victor – Inventing on Principle][4]，[Bret Victor – Learnable Programming][5]
+[Bret Victor][1]: 苹果公司的一位设计师，Swift 因他而生。具体可详见[Bret Victor – Inventing on Principle][4]，[Bret Victor – Learnable Programming][5]
 
 [Aaron Swartz][2]: [互联网之子][3]。
 
