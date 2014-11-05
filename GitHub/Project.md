@@ -6,7 +6,7 @@ GitHub Projects
 Java
 ----
 
-[props2js][1]: 作用是将 Java 属性文件转换为 JSON、JSONP 或 JavaScript 的文件。从而在 JavaScript 中实现写死（hardcoded）代码和逻辑代码的分离。
+[props2js][1]: 它可以将 Java 属性文件转换为 JSON、JSONP 或 JavaScript 的文件。从而在 JavaScript 中实现写死（hardcoded）代码和逻辑代码的分离。
 
 [maven-guide-zh][9]: 《Maven 权威指南》一书的中文版。Maven 是 Java 平台一个很有名的包管理器。
 
