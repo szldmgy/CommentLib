@@ -44,6 +44,11 @@ Cocos2d-JS
 
 [cocos2d-js][11]: Cocos2d-JS 项目源代码，Cocos2d-JS 是一个致力与移动设备 JavaScript 游戏引擎的项目。
 
+Scheme
+------
+
+[harlan][16]: 用于 GPG 图形计算的语言。
+
 [1]: https://github.com/Ju2ender/props2js
 [2]: https://github.com/Ju2ender/novocaine
 [3]: https://github.com/Ju2ender/diumoo
@@ -59,3 +64,4 @@ Cocos2d-JS
 [13]: http://zh.wikipedia.org/wiki/Identicon
 [14]: https://github.com/bower/bower
 [15]: https://github.com/nolimits4web/Framework7
+[16]: https://github.com/Ju2ender/harlan
