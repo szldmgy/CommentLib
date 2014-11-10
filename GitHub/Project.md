@@ -37,6 +37,8 @@ JavaScript
 
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
 
+[jquery_lazyload][17]: jQuery 延迟加载插件。
+
 Cocos2d-JS
 ----------
 
@@ -65,3 +67,4 @@ Scheme
 [14]: https://github.com/bower/bower
 [15]: https://github.com/nolimits4web/Framework7
 [16]: https://github.com/Ju2ender/harlan
+[17]: https://github.com/tuupola/jquery_lazyload
