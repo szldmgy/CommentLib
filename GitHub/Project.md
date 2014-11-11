@@ -19,6 +19,8 @@ Objective-C
 
 [diumoo][3]: 一个 OS X 端的 douban FM 播放器。
 
+[textmate][18]: TextMate 2，OS X 上大名鼎鼎的文本编辑工具第二版开源。
+
 Python
 ------
 
@@ -68,3 +70,4 @@ Scheme
 [15]: https://github.com/nolimits4web/Framework7
 [16]: https://github.com/Ju2ender/harlan
 [17]: https://github.com/tuupola/jquery_lazyload
+[18]: https://github.com/textmate/textmate
