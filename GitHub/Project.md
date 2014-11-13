@@ -53,6 +53,11 @@ Scheme
 
 [harlan][16]: 用于 GPG 图形计算的语言。
 
+Common List
+-----------
+
+[lisp-koans][19]: 学习 Common Lisp 的练习。
+
 [1]: https://github.com/Ju2ender/props2js
 [2]: https://github.com/Ju2ender/novocaine
 [3]: https://github.com/Ju2ender/diumoo
@@ -71,3 +76,4 @@ Scheme
 [16]: https://github.com/Ju2ender/harlan
 [17]: https://github.com/tuupola/jquery_lazyload
 [18]: https://github.com/textmate/textmate
+[19]: https://github.com/Ju2ender/lisp-koans
