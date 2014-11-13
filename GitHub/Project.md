@@ -39,7 +39,12 @@ JavaScript
 
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
 
+jQuery
+------
+
 [jquery_lazyload][17]: jQuery 延迟加载插件。
+
+[jquery-cookie][20]: jQuery 获取、设置 cookie 插件。
 
 Cocos2d-JS
 ----------
@@ -77,3 +82,4 @@ Common List
 [17]: https://github.com/tuupola/jquery_lazyload
 [18]: https://github.com/textmate/textmate
 [19]: https://github.com/Ju2ender/lisp-koans
+[20]: https://github.com/carhartl/jquery-cookie
