@@ -39,6 +39,8 @@ JavaScript
 
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
 
+[xxb][23]: 播报"xx宝"收益的命令行工具。
+
 jQuery
 ------
 
@@ -90,3 +92,4 @@ C#
 [20]: https://github.com/carhartl/jquery-cookie
 [21]: https://github.com/microsoft/dotnet
 [22]: http://news.cnblogs.com/n/508410/
+[23]: https://github.com/Ju2ender/xxb
