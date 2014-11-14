@@ -63,6 +63,11 @@ Common List
 
 [lisp-koans][19]: 学习 Common Lisp 的练习。
 
+C#
+---
+
+[dotnet][21]: [C# 开发环境决定开源][22]，老本行，虽然更好的思想是 Lisp 系、Python、Ruby，看看这个也好。
+
 [1]: https://github.com/Ju2ender/props2js
 [2]: https://github.com/Ju2ender/novocaine
 [3]: https://github.com/Ju2ender/diumoo
@@ -83,3 +88,5 @@ Common List
 [18]: https://github.com/textmate/textmate
 [19]: https://github.com/Ju2ender/lisp-koans
 [20]: https://github.com/carhartl/jquery-cookie
+[21]: https://github.com/microsoft/dotnet
+[22]: http://news.cnblogs.com/n/508410/
