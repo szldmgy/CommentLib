@@ -51,6 +51,8 @@ Node.js
 
 [nvm][24]: 管理 Node.js 版本的 bash 脚本。
 
+[esprima][25]: 这个厉害了，ECMAScript 5.1 的解释器。
+
 [xxb][23]: 播报"xx宝"收益的命令行工具。
 
 Cocos2d-JS
@@ -99,3 +101,4 @@ C#
 [22]: http://news.cnblogs.com/n/508410/
 [23]: https://github.com/Ju2ender/xxb
 [24]: https://github.com/Ju2ender/nvm
+[25]: https://github.com/Ju2ender/esprima
