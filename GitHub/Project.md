@@ -39,14 +39,19 @@ JavaScript
 
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
 
-[xxb][23]: 播报"xx宝"收益的命令行工具。
-
 jQuery
 ------
 
 [jquery_lazyload][17]: jQuery 延迟加载插件。
 
 [jquery-cookie][20]: jQuery 获取、设置 cookie 插件。
+
+Node.js
+-------
+
+[nvm][24]: 管理 Node.js 版本的 bash 脚本。
+
+[xxb][23]: 播报"xx宝"收益的命令行工具。
 
 Cocos2d-JS
 ----------
@@ -93,3 +98,4 @@ C#
 [21]: https://github.com/microsoft/dotnet
 [22]: http://news.cnblogs.com/n/508410/
 [23]: https://github.com/Ju2ender/xxb
+[24]: https://github.com/Ju2ender/nvm
