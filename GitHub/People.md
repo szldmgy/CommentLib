@@ -4,9 +4,12 @@
 
 [Yin Wang][6]: 王垠，极有见地的中国计算机科学家。
 
+[JackyChi][7]: 池建强，『Mac Talk』作者。
+
 [1]: https://github.com/worrydream
 [2]: https://github.com/aaronsw
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
 [5]: http://coolshell.cn/articles/8387.html
 [6]: https://github.com/yinwang0
+[7]: https://github.com/jackychi
