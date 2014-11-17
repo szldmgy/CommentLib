@@ -1,0 +1,4 @@
+[
+    // 默认快捷键是 shift + command + p，但这个快捷键是系统默认的截图快捷键，所以做出修改。
+    { "keys": [ "ctrl+alt+p" ], "command": "show_overlay", "args": { "overlay": "command_palette" } }
+]
