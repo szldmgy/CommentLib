@@ -46,6 +46,8 @@ jQuery
 
 [jquery-cookie][20]: jQuery 获取、设置 cookie 插件。
 
+[jquery-pjax][26]: 异步请求页面，实现无刷新而改变页面 url、内容的效果。
+
 Node.js
 -------
 
@@ -102,3 +104,4 @@ C#
 [23]: https://github.com/Ju2ender/xxb
 [24]: https://github.com/Ju2ender/nvm
 [25]: https://github.com/Ju2ender/esprima
+[26]: https://github.com/Ju2ender/jquery-pjax
