@@ -6,6 +6,8 @@
 
 [JackyChi][7]: 池建强，『Mac Talk』作者。
 
+[Jackson Tian][8]: 田永强，现就职于淘宝，花名朴灵。
+
 [1]: https://github.com/worrydream
 [2]: https://github.com/aaronsw
 [3]: http://coolshell.cn/articles/11928.html
@@ -13,3 +15,4 @@
 [5]: http://coolshell.cn/articles/8387.html
 [6]: https://github.com/yinwang0
 [7]: https://github.com/jackychi
+[8]: https://github.com/JacksonTian
