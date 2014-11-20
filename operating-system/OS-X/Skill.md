@@ -1,6 +1,16 @@
 Skill
 =====
 
+通过命令行关机、重启
+-----------------
+
+```bash
+$ sudo shutdown -r now # 马上重启
+$ sudo shutdown -r +10 # 10 分钟后重启
+$ sudo shutdown -r 22:00 # 绝对时间，晚上十点重启
+$ sudo shutdown -h now * 马上关机
+```
+
 修改 hosts
 ---------
 
