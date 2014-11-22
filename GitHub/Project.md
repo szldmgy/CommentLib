@@ -69,6 +69,8 @@ Scheme
 
 [harlan][16]: 用于 GPG 图形计算的语言。
 
+[gambit-iphone-example][27]: 用 Objective-C 编写的 Scheme 解释器。
+
 Common List
 -----------
 
@@ -105,3 +107,4 @@ C#
 [24]: https://github.com/Ju2ender/nvm
 [25]: https://github.com/Ju2ender/esprima
 [26]: https://github.com/Ju2ender/jquery-pjax
+[27]: https://github.com/Ju2ender/gambit-iphone-example
