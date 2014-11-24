@@ -45,7 +45,8 @@ FOR UPDATE
 
 SELECT *
 FROM table_name
-ORDER BY columnA DESC, columnB ASC;
+ORDER BY columnA DESC, 
+         columnB ASC;
 
 ----------------------------------------------------------------
 -- 获得系统时间的前一天的年月日部分
