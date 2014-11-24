@@ -29,24 +29,17 @@ $.getJSON("", {
     var msg = textStatus + ": " + error;
 });
 
-/*--------------------------------------------------------------
- *
+/**
  * JavaScript create form.
- *
  */
-
 $("<form>", {
     "action": "/member/trust.aspx",
     "method": "POST",
     html: "<input name=\"content\" type=\"text\" value=\"" + content + "\">"
 }).appendTo("body").submit();
 
-/*--------------------------------------------------------------
- *
+/**
  * Convert pixel value to number.
- *
  */
-
 var pixelValue = "20px"; // Use jQuery get a element's height.
 var numberValue = parseInt(pixelValue, 10); // 10 meaning to covert to decimal.
-
