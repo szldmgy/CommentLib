@@ -8,6 +8,8 @@ Learn
 
 [learn-with-open-source][28]: 借助开源项目，学习软件开发。
 
+[free-programming-books][29]: 免费编程书籍。
+
 Java
 ----
 
@@ -114,3 +116,4 @@ C#
 [26]: https://github.com/Ju2ender/jquery-pjax
 [27]: https://github.com/Ju2ender/gambit-iphone-example
 [28]: https://github.com/Ju2ender/learn-with-open-source
+[29]: https://github.com/Ju2ender/free-programming-books
