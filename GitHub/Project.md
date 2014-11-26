@@ -90,6 +90,11 @@ C#
 
 [dotnet][21]: [C# 开发环境决定开源][22]，老本行，虽然更好的思想是 Lisp 系、Python、Ruby，看看这个也好。
 
+Bash
+----
+
+[oh-my-zsh][31]: 管理 zsh 配置的工具。
+
 [1]: https://github.com/Ju2ender/props2js
 [2]: https://github.com/Ju2ender/novocaine
 [3]: https://github.com/Ju2ender/diumoo
@@ -120,3 +125,4 @@ C#
 [28]: https://github.com/Ju2ender/learn-with-open-source
 [29]: https://github.com/Ju2ender/free-programming-books
 [30]: https://github.com/Ju2ender/WhoCall
+[31]: https://github.com/robbyrussell/oh-my-zsh
