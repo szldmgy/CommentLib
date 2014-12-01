@@ -1,8 +1,7 @@
-----------------------------------------------------------------
--- Paging
--- via: http://stackoverflow.com/questions/241622/paging-with-oracle
--- 
-
+/**
+ * Paging
+ * via: http://stackoverflow.com/questions/241622/paging-with-oracle
+ */ 
 SELECT * 
 FROM (
     SELECT T.*, 
@@ -235,3 +234,15 @@ insert into TSALES_ORDER_LOG(
     and salesOrder.valid = 'T'
     and mainBill.valid = 'T'
 );
+
+/**
+ * Convert string to number.
+ */
+select to_number('12')
+from dual;
+
+/**
+ * Get a string's length
+ */
+length('some string')
+
