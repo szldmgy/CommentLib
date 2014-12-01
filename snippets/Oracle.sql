@@ -245,4 +245,7 @@ from dual;
  * Get a string's length
  */
 length('some string')
+lengthb('some string')
 
+subStr('some string', 0, 5)
+inStr('some string', 's', 1, 1)
