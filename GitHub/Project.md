@@ -30,6 +30,12 @@ Objective-C
 
 [WhoCall][30]: 谁CALL我 - iOS来电信息语音提醒。
 
+Swift
+-----
+
+[firefox-ios](https://github.com/Ju2ender/firefox-ios)    
+Mozilla 在 iOS 平台退出的 Firefox 浏览器，用到了 Swift 和 Objective-C。
+
 Python
 ------
 
