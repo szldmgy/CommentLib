@@ -1,6 +1,7 @@
 优秀团队
 =======
 
-[mogutt][1]: 蘑菇街 TeamTalk 即时聊天工具团队。
+[Mozilla](https://github.com/mozilla)    
 
-[1]: https://github.com/mogutt
+[mogutt](https://github.com/mogutt)    
+蘑菇街 TeamTalk 即时聊天工具团队。
