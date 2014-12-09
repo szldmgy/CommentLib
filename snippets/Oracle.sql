@@ -23,48 +23,42 @@ WHERE rn >= (((pageNumber - 1) * pageSize) + 1);
 INSERT INTO table_name(date_field)
 VALUES(TO_DATE('2014/03/30 21:18:30', 'yyyy/mm/dd hh24:mi:ss'));
 
-----------------------------------------------------------------
--- 查询不重复的记录
--- 
-
+/**
+ * 查询不重复的记录
+ */
 SELECT DISTINCT column_name
-FROM table_name
+FROM table_name;
 
-----------------------------------------------------------------
--- 进入表修改模式
---
-
+/**
+ * 进入表修改模式
+ */
 SELECT *
 FROM table_name
 FOR UPDATE
 
-----------------------------------------------------------------
--- 多字段排序
---
-
+/**
+ * 多字段排序
+ */
 SELECT *
 FROM table_name
 ORDER BY columnA DESC, 
          columnB ASC;
 
-----------------------------------------------------------------
--- 获得系统时间的前一天的年月日部分
---
-
+/**
+ * 获得系统时间的前一天的年月日部分
+ */
 SELECT TRUNC(SYSDATE - 1)
 FROM dual;
 
-----------------------------------------------------------------
--- 获得某个月的最后一天
---
-
+/**
+ * 获得某个月的最后一天
+ */
 SELECT TRUNC(LAST_DAY(TO_DATE('2014/4/23', 'yyyy/mm/dd')))
 FROM dual;
 
-----------------------------------------------------------------
--- 外链子查询与 case 用法
---
-
+/**
+ * 外链子查询与 case 用法
+ */
 SELECT DISTINCT s.SPECIFICATION_NAME, s.PKID, 
 CASE 
     WHEN sl.recordCount IS NULL THEN 0
@@ -84,9 +78,9 @@ ON TRIM(s.SPECIFICATION_NAME) = TRIM(sl.SPECIFICATION_NAME)
 WHERE s.VALID = 'T' 
 ORDER BY recordCount DESC, SPECIFICATION_NAME ASC;
 
-----------------------------------------------------------------
--- 查询大于某个月份的记录
---
+/**
+ * 查询大于某个月份的记录
+ */
 
 -- 如果字段是 DATE 型
 SELECT *
@@ -98,38 +92,34 @@ SELECT *
 FROM table_name
 WHERE TO_DATE(date_column, 'mm/dd/yyy') >= TRUNC(SYSDATE, 'mm')
 
-----------------------------------------------------------------
--- 求平均值精度超出，报 OCI-22053: overflow error 错误的解决方法
--- 原因通常是，使用的浮点数精度超过了 Oracle 所支持的范围。
--- 使用 TRUNC 方法，截取小数位，或使用 ROUND 方法，四舍五入，保留指定的有效位数。
--- 价格类，更推荐使用 ROUND。
---
-
+/**
+ * 求平均值精度超出，报 OCI-22053: overflow error 错误的解决方法
+ * 原因通常是，使用的浮点数精度超过了 Oracle 所支持的范围。
+ * 使用 TRUNC 方法，截取小数位，或使用 ROUND 方法，四舍五入，保留指定的有效位数。
+ * 价格类，更推荐使用 ROUND。
+ */
 ROUND(AVG(price), 2)
 TRUNC(AVG(price), 2)
 
-----------------------------------------------------------------
--- 获取前 N 条数据。
---
-
+/**
+ * 获取前 N 条数据。
+ */
 select T.*,
        rowNum 
 from (
     select *
     from tableName
 ) T
-where rowNum <= 10
+where rowNum <= 10;
 
-----------------------------------------------------------------
--- 获取系统时间、系统时间串
---
-
+/**
+ * 获取系统时间、系统时间串
+ */
 sysDate, sysTimeStamp
 
-----------------------------------------------------------------
--- 存储过程中条件的处理
---
-
+/**
+ * 存储过程中条件的处理
+ */
 v_number_param int 
 v_varchar_param varchar(50)
 
@@ -138,10 +128,9 @@ from Table
 where (v_number_param = -1 or number_column = v_number_param)
 and (v_varchar_param is null or varchar_column = v_varchar_param)
 
-----------------------------------------------------------------
--- 存储过程中对返回表集合的处理
---
-
+/**
+ * 存储过程中对返回表集合的处理
+ */
 procedure GetSomeList (
     v_param_1 int,
     v_param_2 int,
@@ -163,13 +152,11 @@ and (v_param_2 = -1 or column_2 = v_param_2);
 
 end;
 
-----------------------------------------------------------------
--- 存储过程中返回操作成功的数据条数
---
-
-/* 
- * 修改开放平台资源审核状态
+/**
+ * 存储过程中返回操作成功的数据条数
  */
+
+-- 修改开放平台资源审核状态
 PROCEDURE GetPopStockItemByPopStockID (
     v_POP_STOCK_ID TPOP_STOCK.STOCK_ID%type, -- 资源 ID
     v_AUDIT_STATUS TPOP_STOCK.AUDIT_STATUS%type, -- 资源审核状态
@@ -190,10 +177,9 @@ v_COUNT := SQL%ROWCOUNT;
 
 END GetPopStockItemByPopStockID;
 
-----------------------------------------------------------------
--- insert 数据的时候用 select 查询符合的数据插入进去
---
-
+/**
+ * insert 数据的时候用 select 查询符合的数据插入进去
+ */
 insert into TSALES_ORDER_LOG(
     PKID,
     SALES_ORDER_ID,
@@ -248,4 +234,11 @@ length('some string')
 lengthb('some string')
 
 subStr('some string', 0, 5)
-inStr('some string', 's', 1, 1)
+inStr('some string', 'c', 1, 1)
+
+/**
+ * Check string is or not a number.
+ */
+select 'string'
+from dual
+where regexp_like('string', '(^[+-]?\d{0,}\.?\d{0,}$)');
