@@ -62,6 +62,9 @@ JavaScript
 
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
 
+[node-browserify](https://github.com/Ju2ender/node-browserify)
+能让前端项目也能够使用 Node.js 的引入其他 JavaScript 文件的功能：
+
 jQuery
 ------
 
