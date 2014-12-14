@@ -17,8 +17,8 @@ Windows
 
 3. git config --global core.editor "D:\\Program Files\\emacs-24.3\\bin\\runemacs"
 
-config
-------
+配置
+---
 
-
-
+参考 [Steve Purcell](https://github.com/purcell) 的 Emacs 配置 [emacs.d](https://github.com/Ju2ender/emacs.d)
+站在巨人的肩膀上，少折腾，尽快的开始工作。

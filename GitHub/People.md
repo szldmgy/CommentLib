@@ -19,6 +19,9 @@
 [mpwang](https://github.com/mpwang)
 蛮有思想的一个人。
 
+[Steve Purcell](https://github.com/purcell)
+Emacs 世界级大师。
+
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
 [5]: http://coolshell.cn/articles/8387.html
