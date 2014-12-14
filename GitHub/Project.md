@@ -6,9 +6,13 @@ GitHub Projects
 Learn
 -----
 
-[learn-with-open-source][28]: 借助开源项目，学习软件开发。
+[learn-with-open-source](https://github.com/Ju2ender/learn-with-open-source)
+借助开源项目，学习软件开发。
 
 [free-programming-books][29]: 免费编程书籍。
+
+[yinwang0-blog-cn](https://github.com/Ju2ender/yinwang0-blog-cn)
+王垠早期的个人博客副本。
 
 Java
 ----
@@ -145,7 +149,6 @@ Bash
 [25]: https://github.com/Ju2ender/esprima
 [26]: https://github.com/Ju2ender/jquery-pjax
 [27]: https://github.com/Ju2ender/gambit-iphone-example
-[28]: https://github.com/Ju2ender/learn-with-open-source
 [29]: https://github.com/Ju2ender/free-programming-books
 [30]: https://github.com/Ju2ender/WhoCall
 [31]: https://github.com/robbyrussell/oh-my-zsh
