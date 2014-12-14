@@ -16,6 +16,9 @@
 [justzx](https://github.com/justzx2011)
 豆瓣 FM OS X 客户端 diumoo 的作者。
 
+[mpwang](https://github.com/mpwang)
+蛮有思想的一个人。
+
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
 [5]: http://coolshell.cn/articles/8387.html
