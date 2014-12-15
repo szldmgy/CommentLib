@@ -22,6 +22,9 @@
 [Steve Purcell](https://github.com/purcell)
 Emacs 世界级大师。
 
+[David Heinemeier Hansson](https://github.com/dhh)
+Ruby on Rails 的作者，37signals 合伙人。
+
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
 [5]: http://coolshell.cn/articles/8387.html
