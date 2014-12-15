@@ -17,7 +17,9 @@ Learn
 Java
 ----
 
-[props2js][1]: 它可以将 Java 属性文件转换为 JSON、JSONP 或 JavaScript 的文件。从而在 JavaScript 中实现写死（hardcoded）代码和逻辑代码的分离。
+[Props2JS](https://github.com/Ju2ender/props2js)
+它可以将 Java 属性文件转换为 JSON、JSONP 或 JavaScript 的文件。从而在 JavaScript 
+中实现硬编码（hardcoded）和逻辑的分离。
 
 [maven-guide-zh][9]: 《Maven 权威指南》一书的中文版。Maven 是 Java 平台一个很有名的包管理器。
 
@@ -26,7 +28,8 @@ Java
 Objective-C
 -----------
 
-[novocaine][2]: 可以从 Mac、iOS 设备中获取音频和播放音频。获取音频通过话筒。
+[novocaine](https://github.com/Ju2ender/novocaine)
+可以从 Mac、iOS 设备中获取音频和播放音频。获取音频通过话筒。
 
 [diumoo][3]: 一个 OS X 端的 douban FM 播放器。
 
@@ -128,8 +131,12 @@ Bash
 
 [oh-my-zsh][31]: 管理 zsh 配置的工具。
 
-[1]: https://github.com/Ju2ender/props2js
-[2]: https://github.com/Ju2ender/novocaine
+Ruby
+----
+
+[basecamp](https://github.com/Ju2ender/basecamp)
+37signals 的一个 Web 项目。
+
 [3]: https://github.com/Ju2ender/diumoo
 [4]: https://github.com/Ju2ender/django
 [5]: https://github.com/Ju2ender/learning-django
