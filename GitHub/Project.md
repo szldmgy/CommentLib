@@ -72,6 +72,9 @@ JavaScript
 [CoffeeScript](https://github.com/Ju2ender/coffeescript)
 像 Ruby 一样写 JavaScript。
 
+[npm](https://github.com/Ju2ender/npm)
+Node.js 的包管理器。在安装 Node.js 时默认包含。
+
 jQuery
 ------
 
