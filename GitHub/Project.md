@@ -51,23 +51,26 @@ Swift 版 HackerNews 阅读器。
 Python
 ------
 
-[django][4]: Python Web 开发中很有名的一个框架。
+[Django][4]: Python Web 开发中很有名的一个框架。
 
-[learning-django][5]: 书[『Python Web Development with Django』][6] 的部分示例代码。
+[Learning Django][5]: 书[『Python Web Development with Django』][6] 的部分示例代码。
 
 [Lucky][7]: PyGTK完成的抽奖小程序。
 
-[coursera][8]: 从 Coursera.org 上下载视频并为其命名。
+[Coursera][8]: 从 Coursera.org 上下载视频并为其命名。
 
 JavaScript
 ----------
 
-[bower][14]: 一个为 Web 开发人员准备的包管理器，依赖 Node.js 环境。
+[Bower][14]: 一个为 Web 开发人员准备的包管理器，依赖 Node.js 环境。
 
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
 
-[node-browserify](https://github.com/Ju2ender/node-browserify)
-能让前端项目也能够使用 Node.js 的引入其他 JavaScript 文件的功能：
+[Browserify](https://github.com/Ju2ender/node-browserify)
+能让前端项目也能够使用 Node.js 的引入其他 JavaScript 文件的功能。
+
+[CoffeeScript](https://github.com/Ju2ender/coffeescript)
+像 Ruby 一样写 JavaScript。
 
 jQuery
 ------
