@@ -1,18 +1,35 @@
-shortcuts
-========
+Shortcuts
+=========
 
-左缩进：`command + [`    
-右缩进：`command + ]`    
-Show or Hide Debug Area：`shift + command + Y`    
-Quick Help for Selected Item: `shift + control + command + ?`
+View
+----
+
+`shift + command + Y`: Show or Hide Debug Area
 
 Product
 -------
 
-Run: `command + R`    
-Build: `command + B`    
+`command + R`: Run
+
+`command + B`: Build
 
 Edit
 ----
 
-Show completions: `command + .`
+`command + .`: Show completions
+
+`command + [`: 左缩进
+
+`command + ]`: 右缩进
+
+Navigate
+--------
+
+`control + command + ←`: Go Back
+
+`control + command + →`: Go Forward
+
+Help
+----
+
+`shift + control + command + ?`: Quick Help for Selected Item
