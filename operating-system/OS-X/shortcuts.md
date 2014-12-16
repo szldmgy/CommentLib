@@ -20,3 +20,5 @@ Other
 `control + eject`: 打开关机对话框
 
 `shift + command + P`: 截屏
+
+`command + ~`: 切换同一程序的不同窗口。
