@@ -60,7 +60,8 @@ Objective-C
 [novocaine](https://github.com/Ju2ender/novocaine)
 可以从 Mac、iOS 设备中获取音频和播放音频。获取音频通过话筒。
 
-[diumoo][3]: 一个 OS X 端的 douban FM 播放器。
+[diumoo](https://github.com/Ju2ender/diumoo)
+一个 OS X 端的 douban FM 播放器。
 
 [textmate][18]: TextMate 2，OS X 上大名鼎鼎的文本编辑工具第二版开源。
 
@@ -84,7 +85,8 @@ Swift 版 HackerNews 阅读器。
 Python
 ------
 
-[Django][4]: Python Web 开发中很有名的一个框架。
+[Django](https://github.com/Ju2ender/django)
+Python Web 开发中很有名的一个框架。
 
 [Learning Django][5]: 书[『Python Web Development with Django』][6] 的部分示例代码。
 
@@ -108,42 +110,56 @@ JavaScript
 [npm](https://github.com/Ju2ender/npm)
 Node.js 的包管理器。在安装 Node.js 时默认包含。
 
+[AngularJS](https://github.com/Ju2ender/angular.js)
+AngularJS 诞生于2009 年，它是一种新的 Web 应用构建思想：它尝试去弥补 HTML 自身的不足，通过添加标识符让浏览器识别新语法。
+
 jQuery
 ------
 
-[jquery_lazyload][17]: jQuery 延迟加载插件。
+[jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
+jQuery 延迟加载插件。
 
-[jquery-cookie][20]: jQuery 获取、设置 cookie 插件。
+[jquery-cookie](https://github.com/carhartl/jquery-cookie)
+jQuery 获取、设置 cookie 插件。
 
-[jquery-pjax][26]: 异步请求页面，实现无刷新而改变页面 url、内容的效果。
+[jquery-pjax](https://github.com/Ju2ender/jquery-pjax)
+异步请求页面，实现无刷新而改变页面 url、内容的效果。
 
 Node.js
 -------
 
-[nvm][24]: 管理 Node.js 版本的 bash 脚本。
+[nvm](https://github.com/Ju2ender/nvm)
+管理 Node.js 版本的 bash 脚本。
 
-[esprima][25]: 这个厉害了，ECMAScript 5.1 的解释器。
+[esprima](https://github.com/Ju2ender/esprima)
+这个厉害了，ECMAScript 5.1 的解释器。
 
-[xxb][23]: 播报"xx宝"收益的命令行工具。
+[xxb](https://github.com/Ju2ender/xxb)
+播报"xx宝"收益的命令行工具。
 
 Cocos2d-JS
 ----------
 
-[MoonWarriors][10]: 用 Cocos2d-JS 编写的一个打飞机小游戏。
+[MoonWarriors](https://github.com/Ju2ender/MoonWarriors)
+用 Cocos2d-JS 编写的一个打飞机小游戏。
 
-[cocos2d-js][11]: Cocos2d-JS 项目源代码，Cocos2d-JS 是一个致力与移动设备 JavaScript 游戏引擎的项目。
+[cocos2d-js](https://github.com/Ju2ender/cocos2d-js)
+Cocos2d-JS 项目源代码，Cocos2d-JS 是一个致力与移动设备 JavaScript 游戏引擎的项目。
 
 Scheme
 ------
 
-[harlan][16]: 用于 GPG 图形计算的语言。
+[harlan](https://github.com/Ju2ender/harlan)
+用于 GPG 图形计算的语言。
 
-[gambit-iphone-example][27]: 用 Objective-C 编写的 Scheme 解释器。
+[gambit-iphone-example](https://github.com/Ju2ender/gambit-iphone-example)
+用 Objective-C 编写的 Scheme 解释器。
 
 Common Lisp
 -----------
 
-[lisp-koans][19]: 学习 Common Lisp 的练习。
+[lisp-koans](https://github.com/Ju2ender/lisp-koans)
+学习 Common Lisp 的练习。
 
 C
 -
@@ -167,31 +183,18 @@ Ruby
 [basecamp](https://github.com/Ju2ender/basecamp)
 37signals 的一个 Web 项目。
 
-[3]: https://github.com/Ju2ender/diumoo
-[4]: https://github.com/Ju2ender/django
 [5]: https://github.com/Ju2ender/learning-django
 [6]: http://book.douban.com/review/5465791/
 [7]: https://github.com/Ju2ender/Lucky
 [8]: https://github.com/Ju2ender/coursera
 [9]: https://github.com/Ju2ender/maven-guide-zh
-[10]: https://github.com/Ju2ender/MoonWarriors
-[11]: https://github.com/Ju2ender/cocos2d-js
 [12]: https://github.com/Ju2ender/identicon
 [13]: http://zh.wikipedia.org/wiki/Identicon
 [14]: https://github.com/bower/bower
 [15]: https://github.com/nolimits4web/Framework7
-[16]: https://github.com/Ju2ender/harlan
-[17]: https://github.com/tuupola/jquery_lazyload
 [18]: https://github.com/textmate/textmate
-[19]: https://github.com/Ju2ender/lisp-koans
-[20]: https://github.com/carhartl/jquery-cookie
 [21]: https://github.com/microsoft/dotnet
 [22]: http://news.cnblogs.com/n/508410/
-[23]: https://github.com/Ju2ender/xxb
-[24]: https://github.com/Ju2ender/nvm
-[25]: https://github.com/Ju2ender/esprima
-[26]: https://github.com/Ju2ender/jquery-pjax
-[27]: https://github.com/Ju2ender/gambit-iphone-example
 [29]: https://github.com/Ju2ender/free-programming-books
 [30]: https://github.com/Ju2ender/WhoCall
 [31]: https://github.com/robbyrussell/oh-my-zsh
