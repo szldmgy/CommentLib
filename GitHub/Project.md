@@ -113,6 +113,9 @@ Node.js 的包管理器。在安装 Node.js 时默认包含。
 [AngularJS](https://github.com/Ju2ender/angular.js)
 AngularJS 诞生于2009 年，它是一种新的 Web 应用构建思想：它尝试去弥补 HTML 自身的不足，通过添加标识符让浏览器识别新语法。
 
+[satellizer](https://github.com/sahat/satellizer)
+基于 AngularJS 的多账户登录项目。
+
 jQuery
 ------
 
