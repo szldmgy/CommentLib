@@ -8,3 +8,6 @@
 
 [ThoughtWorks Inc.](https://github.com/thoughtworks)
 ThoughtWorks 公司，在全球各地都有分公司，致力于提高 Software Engineer 的工作效率。
+
+[Angular](https://github.com/angular/)
+AngularJS 团队。
