@@ -1,6 +1,9 @@
 优秀团队
 =======
 
+[GitHub](https://github.com/github)
+GitHub 公司团队。
+
 [Mozilla](https://github.com/mozilla)
 
 [mogutt](https://github.com/mogutt)
