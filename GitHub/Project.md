@@ -3,12 +3,6 @@ GitHub Projects
 
 这里记录了 GitHub 上非常有用的一些项目，地址都会给出我 Fork 的地址，因为很难保证项目的所有者在未来不会删除这些优美的项目。所以，凡是看到这些项目我都会 Fork 下来。
 
-Language
---------
-
-[Processing](https://github.com/Ju2ender/processing)
-Processing 语言，用 Java 开发。
-
 Learn
 -----
 
