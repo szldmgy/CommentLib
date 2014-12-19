@@ -164,9 +164,6 @@ Scheme
 [gambit-iphone-example](https://github.com/Ju2ender/gambit-iphone-example)
 用 Objective-C 编写的 Scheme 解释器。
 
-[eopl3](https://github.com/Ju2ender/eopl3)
-"Essentials of Programming Languages" 一书的源代码。
-
 [miniKanren](https://github.com/Ju2ender/miniKanren)
 
 Common Lisp
