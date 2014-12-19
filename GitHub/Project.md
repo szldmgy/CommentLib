@@ -122,6 +122,8 @@ AngularJS 诞生于2009 年，它是一种新的 Web 应用构建思想：它尝
 [satellizer](https://github.com/sahat/satellizer)
 基于 AngularJS 的多账户登录项目。
 
+[html5-uki](https://github.com/bartuer/html5-uki)
+
 jQuery
 ------
 
@@ -172,11 +174,21 @@ Common Lisp
 [lisp-koans](https://github.com/Ju2ender/lisp-koans)
 学习 Common Lisp 的练习。
 
+Clojure
+-------
+
+[ClojureScript](https://github.com/clojure/clojurescript)
+
 C
 -
 
 [tengine](https://github.com/Ju2ender/tengine)
 阿里的开源 Web 服务器，基于 Nginx。被用于淘宝、天猫。
+
+C++
+---
+
+[phantomjs](https://github.com/ariya/phantomjs)
 
 C#
 ---
