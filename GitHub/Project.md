@@ -14,6 +14,9 @@ Learn
 [yinwang0-blog-cn](https://github.com/Ju2ender/yinwang0-blog-cn)
 王垠早期的个人博客副本。
 
+[DeepLearning](https://github.com/Ju2ender/DeepLearning)
+深度学习 C、C++、Java、Scala、Python、Go。
+
 [TeamTalk](http://tt.mogu.io/)
 ------------------------------
 
@@ -99,6 +102,9 @@ PyGTK完成的抽奖小程序。
 [Coursera](https://github.com/Ju2ender/coursera)
 从 Coursera.org 上下载视频并为其命名。
 
+[Chisel](https://github.com/Ju2ender/chisel)
+LLDB 指令组件集合，用于调试 iOS 应用。
+
 JavaScript
 ----------
 
@@ -124,6 +130,9 @@ AngularJS 诞生于2009 年，它是一种新的 Web 应用构建思想：它尝
 
 [html5-uki](https://github.com/bartuer/html5-uki)
 
+[less.js](https://github.com/Ju2ender/less.js)
+Leaner CSS.
+
 jQuery
 ------
 
@@ -135,6 +144,9 @@ jQuery 获取、设置 cookie 插件。
 
 [jquery-pjax](https://github.com/Ju2ender/jquery-pjax)
 异步请求页面，实现无刷新而改变页面 url、内容的效果。
+
+[quicksand](https://github.com/Ju2ender/quicksand)
+用动画来展示元素载入和过滤。
 
 Node.js
 -------

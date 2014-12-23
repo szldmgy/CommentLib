@@ -42,3 +42,21 @@ $ some very very very \
 ```
 
 `\` means command is not end.
+
+Rename File
+-----------
+
+```bash
+# Rename a file called readme.md to README.md
+$ mv readme.md README.md
+```
+
+```bash
+# Rename a directory called dirA to dirB
+$ mv dirA dirB
+```
+
+```bash
+# Rename all *.jpg file to *.png
+$ mv .jpg .png *.jpg
+```

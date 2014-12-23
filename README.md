@@ -26,3 +26,28 @@ CommentLib
 ```JavaScript
 document.cookie = 'wvr6=0';
 ```
+
+偏执狂
+-----
+
+搞计算机的人中偏执狂很多，据我所知尤其在搞 Lisp、Ruby 的人中尤其多。表现在想用 Lisp、Ruby 
+的语法去写所有的编程语言，所有能想到的东西都用它们来写。说几个知名的：
+
+* [CoffeeScript](https://github.com/jashkenas/coffeescript)
+  用 Ruby 的方式写 JavaScript。
+
+* [Homebrew](https://github.com/Homebrew/homebrew)
+  用 Ruby 写的 Mac 平台程序管理器。
+
+* [Sass](https://github.com/sass/sass)
+  用 Ruby 来写 CSS。
+
+但 Lisp 本身是比 Ruby 优秀的，而且也比 Rubyer 知道很重要的一点：每种语言有自己的规范、格式。
+遵循这些规格和格式才能保证和这个语言的大部分群体，也是主力的开发者保持很好的交流，能够获得他们的帮助。
+
+从代码里很容易看出某个文件是 Rubyer 写的：缩进两个空格、不加分号（别理解错了，这样写 RUby 
+当然正确，Ruby 的源代码是就是这么写的。关键是 Rubyer 也这么写 HTML、CSS、JavaScript、C、Objective-C，反正只要是他会写个几句的语言）。
+而且你怎么说他也不听，认为这是个人的编程习惯。但是这样却是限制了你的受众：
+他必须和你一样，是个 Ruby 偏执狂！而且是个认为你这种偏执方法是他所认同的偏执，若他有另一个偏执的践行标准，噢，那么不好意思，他瞧不上你的项目。
+
+我只是在这里扯淡，还好没一个人能看到。
