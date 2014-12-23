@@ -1,26 +1,44 @@
-see IP
+See IP
 ------
-Open terminal (or iTerm):    
+
+Open terminal (or iTerm):
+
 ```bash
 $ ifconfig
-```    
+```
+
 find inet.
 
-list all file (include hidden file)
+List All Files (include hidden file)
 -----------------------------------
+
 ```bash
 $ ls -a
 ```
 
-copy file
+Copy File
 ---------
+
 ```bash
 $ cp /dir/filename /todir
 ```
 
-copy directory
+Copy Directory
 --------------
+
 ```bash
 $ cp /dir/* /todir
 ```
 
+New Line
+--------
+
+Sometimes, the bash would be very long, you can break it:
+
+```bash
+$ some very very very \
+  very very very very \
+  very long command
+```
+
+`\` means command is not end.
