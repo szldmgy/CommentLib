@@ -113,6 +113,9 @@ PyGTK完成的抽奖小程序。
 [Chisel](https://github.com/Ju2ender/chisel)
 LLDB 指令组件集合，用于调试 iOS 应用。
 
+[AmonOne](https://github.com/Ju2ender/amonone)
+现代化的自托管服务器监控工具。
+
 JavaScript
 ----------
 
