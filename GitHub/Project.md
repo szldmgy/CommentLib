@@ -83,6 +83,9 @@ Objective-C
 [Projects that power GitHub for Mac](https://github.com/showcases/projects-that-power-github-for-mac)
 构建 GitHub Mac 客户端的项目。
 
+[ObjectiveSugar](https://github.com/Ju2ender/ObjectiveSugar)
+用 Category 的方式实现一些类似于 Ruby 中的书写方式，不建议使用，而是学习 Category 的写法、思想。
+
 Swift
 -----
 
