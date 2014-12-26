@@ -219,7 +219,11 @@ C++
 C#
 ---
 
-[dotnet][21]: [C# 开发环境决定开源][22]，老本行，虽然更好的思想是 Lisp 系、Python、Ruby，看看这个也好。
+[dotnet][21]
+[C# 开发环境决定开源][22]，老本行，虽然更好的思想是 Lisp 系、Python、Ruby，看看这个也好。
+
+[CsQuery](https://github.com/Ju2ender/CsQuery)
+模仿 jQuery 选择器的 C# 版本。
 
 Bash
 ----
