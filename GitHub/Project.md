@@ -67,28 +67,6 @@ Android
 [android](https://github.com/Ju2ender/android)
 GitHub 官方 Android App，采用 Hybrid 方式。
 
-Objective-C
------------
-
-[novocaine](https://github.com/Ju2ender/novocaine)
-可以从 Mac、iOS 设备中获取音频和播放音频。获取音频通过话筒。
-
-[diumoo](https://github.com/Ju2ender/diumoo)
-一个 OS X 端的 douban FM 播放器。
-
-[textmate][18]: TextMate 2，OS X 上大名鼎鼎的文本编辑工具第二版开源。
-
-[WhoCall][30]: 谁CALL我 - iOS来电信息语音提醒。
-
-[Projects that power GitHub for Mac](https://github.com/showcases/projects-that-power-github-for-mac)
-构建 GitHub Mac 客户端的项目。
-
-[ObjectiveSugar](https://github.com/Ju2ender/ObjectiveSugar)
-用 Category 的方式实现一些类似于 Ruby 中的书写方式，不建议使用，而是学习 Category 的写法、思想。
-
-[PNChart](https://github.com/Ju2ender/PNChart)
-图表工具类。
-
 Swift
 -----
 
@@ -243,9 +221,7 @@ Ruby
 GitHub 自己的 Markdown 格式，可以添加 checkbox 的语法支持。
 
 [15]: https://github.com/nolimits4web/Framework7
-[18]: https://github.com/textmate/textmate
 [21]: https://github.com/microsoft/dotnet
 [22]: http://news.cnblogs.com/n/508410/
 [29]: https://github.com/Ju2ender/free-programming-books
-[30]: https://github.com/Ju2ender/WhoCall
 [31]: https://github.com/robbyrussell/oh-my-zsh
