@@ -12,3 +12,6 @@ TextMate 2，OS X 上大名鼎鼎的文本编辑工具第二版开源。
 
 [Projects that power GitHub for Mac](https://github.com/showcases/projects-that-power-github-for-mac)
 GitHub 官方构建 Mac 客户端所用到的项目。
+
+[Shadowsocks-iOS](https://github.com/Ju2ender/shadowsocks-iOS)
+一个不能说的秘密，OS X 和 iOS 客户端。
