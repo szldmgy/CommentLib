@@ -103,19 +103,7 @@ LLDB 指令组件集合，用于调试 iOS 应用。
 JavaScript
 ----------
 
-[Bower](https://github.com/bower/bower)
-一个为 Web 开发人员准备的包管理器，依赖 Node.js 环境。
-
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
-
-[Browserify](https://github.com/Ju2ender/node-browserify)
-能让前端项目也能够使用 Node.js 的引入其他 JavaScript 文件的功能。
-
-[CoffeeScript](https://github.com/Ju2ender/coffeescript)
-像 Ruby 一样写 JavaScript。
-
-[npm](https://github.com/Ju2ender/npm)
-Node.js 的包管理器。在安装 Node.js 时默认包含。
 
 [AngularJS](https://github.com/Ju2ender/angular.js)
 AngularJS 诞生于2009 年，它是一种新的 Web 应用构建思想：它尝试去弥补 HTML 自身的不足，通过添加标识符让浏览器识别新语法。
