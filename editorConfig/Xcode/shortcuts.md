@@ -22,6 +22,12 @@ Edit
 
 `command + ]`: 右缩进
 
+`fn + delete`: 删除光标后的字符。
+
+`option + delete`: 删除光标前一个单词。
+
+`fn + option + delete`: 删除光标后一个单词。
+
 Navigate
 --------
 
