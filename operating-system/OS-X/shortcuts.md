@@ -12,6 +12,13 @@ Finder
 
 `control + single click`: 打开快捷菜单
 
+Volume
+------
+
+`shift + volume`: 调节音量但不发出提示音。
+
+`shift + option + volume`: 微调音量，一格变为四小格。
+
 Other
 -----
 
