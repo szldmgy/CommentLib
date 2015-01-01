@@ -1,5 +1,5 @@
 JavaScript
 ==========
 
-Grunt 是什么？
-当前目标是 Objective-C 和 iOS，其余都只做了解。
+[UglifyJS](https://github.com/Ju2ender/UglifyJS)
+压缩、格式化工具。

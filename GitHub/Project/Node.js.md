@@ -15,3 +15,14 @@ Node.js 的包管理器。在安装 Node.js 时默认包含。
 
 [pad](https://github.com/Ju2ender/pad)
 简单的终端编辑器，类似于终端里的 vi。
+
+[Grunt](https://github.com/Ju2ender/grunt)
+自动化执行任务。
+[Grunt official site](http://gruntjs.com/)
+[Grunt cn](http://gruntjs.cn/)
+[Grunt org](http://www.gruntjs.org/)
+[Grunt net](http://www.gruntjs.net/)
+[Grunt baidu baike](http://baike.baidu.com/view/375601.htm)
+
+[UglifyJS2](https://github.com/Ju2ender/UglifyJS2)
+UglifyJS 的第二版。

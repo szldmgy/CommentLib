@@ -1,20 +1,11 @@
 See IP
 ------
 
-Open terminal (or iTerm):
+`clear`: 清屏。
 
-```bash
-$ ifconfig
-```
+`ifconfig`: 查看 IP。
 
-find inet.
-
-List All Files (include hidden file)
------------------------------------
-
-```bash
-$ ls -a
-```
+`ls -a`: List All Files (include hidden file)
 
 Copy File
 ---------
