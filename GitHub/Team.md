@@ -6,6 +6,9 @@ GitHub 公司团队。
 
 [Mozilla](https://github.com/mozilla)
 
+[Haskell](https://github.com/haskell)
+Haskell 语言官方团队。
+
 [mogutt](https://github.com/mogutt)
 蘑菇街 TeamTalk 即时聊天工具团队。
 
