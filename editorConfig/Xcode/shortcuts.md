@@ -18,6 +18,8 @@ Edit
 
 `command + .`: Show completions
 
+`command + L`: Jump to line
+
 `command + [`: 左缩进
 
 `command + ]`: 右缩进
