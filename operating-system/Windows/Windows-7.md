@@ -2,7 +2,7 @@ Windowns 7
 ==========
 
 必装软件
---------
+-------
 
 - Chrome 主浏览器。**QQ 电脑管家** > 软件管理 > 软件仓库
 - Opera 12 次浏览器。**QQ 电脑管家** > 软件管理 > 软件仓库
@@ -38,4 +38,3 @@ Workrave config
 [5]: https://help.github.com/articles/set-up-git
 [6]: http://guanjia.qq.com/
 [7]: http://cidian.dict.cn/index.html
-
