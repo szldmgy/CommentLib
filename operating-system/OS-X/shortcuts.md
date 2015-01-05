@@ -4,13 +4,15 @@ Shortcuts
 Finder
 ------
 
-`command + 上箭头`: 在 Finder 中前往上一层目录
+`command + 上方向键`: 在 Finder 中前往上一层目录
 
 `shift + command + G`: 前往
 
 `command + I`: 打开信息面板
 
 `control + single click`: 打开快捷菜单
+
+`fn + 左、右方向键`: 到达当前浏览目录的头和尾
 
 Application
 -----------
