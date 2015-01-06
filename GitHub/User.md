@@ -33,6 +33,12 @@ Ruby on Rails 的作者，37signals 合伙人。
 
 [Lawrence Kesteloot](https://github.com/lkesteloot?tab=repositories)
 
+[Martin Rusev](https://github.com/martinrusev)
+
+[Vinta](https://github.com/vinta?tab=repositories)
+
+
+
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
 [5]: http://coolshell.cn/articles/8387.html

@@ -9,3 +9,6 @@ Objective-C iOS
 
 [novocaine](https://github.com/Ju2ender/novocaine)
 可以从 Mac、iOS 设备中获取音频和播放音频。获取音频通过话筒。
+
+[HysteriaPlayer](https://github.com/Ju2ender/HysteriaPlayer)
+
