@@ -31,6 +31,8 @@ Ruby on Rails 的作者，37signals 合伙人。
 [Sahat Yalkabov](https://github.com/sahat)
 [satellizer](https://github.com/angular/angular.js) 的主要贡献者。
 
+[Lawrence Kesteloot](https://github.com/lkesteloot?tab=repositories)
+
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
 [5]: http://coolshell.cn/articles/8387.html
