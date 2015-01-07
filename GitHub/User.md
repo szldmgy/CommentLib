@@ -37,7 +37,9 @@ Ruby on Rails 的作者，37signals 合伙人。
 
 [Vinta](https://github.com/vinta?tab=repositories)
 
+[Hawstein](https://github.com/Hawstein?tab=repositories)
 
+[codinggirl](https://github.com/codinggirl?tab=repositories)
 
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
