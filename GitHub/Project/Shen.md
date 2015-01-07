@@ -9,3 +9,4 @@ Shen 语言是函数编程语言 Qi 的继承者，由 Mark Tarver 博士开发�
 
 [Official site](http://www.shenlanguage.org/)
 [Download](http://www.shenlanguage.org/download_form.html)
+[Wiki](https://en.wikipedia.org/wiki/Shen_(programming_language))
