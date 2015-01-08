@@ -28,6 +28,9 @@ Emacs 世界级大师。
 [David Heinemeier Hansson](https://github.com/dhh)
 Ruby on Rails 的作者，37signals 合伙人。
 
+[James Burke](https://github.com/jrburke)
+RequireJS 项目作者。
+
 [Sahat Yalkabov](https://github.com/sahat)
 [satellizer](https://github.com/angular/angular.js) 的主要贡献者。
 

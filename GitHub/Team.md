@@ -17,3 +17,6 @@ ThoughtWorks 公司，在全球各地都有分公司，致力于提高 Software 
 
 [Angular](https://github.com/angular/)
 AngularJS 团队。
+
+[RequireJS](https://github.com/requirejs)
+RequireJS 是一个管理 JavaScript 加载的工具，官方团队。
