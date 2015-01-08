@@ -44,6 +44,13 @@ RequireJS 项目作者。
 
 [codinggirl](https://github.com/codinggirl?tab=repositories)
 
+Lisper
+------
+
+[Dave Fayram](https://github.com/KirinDave?tab=repositories)
+
+[Phil Hagelberg](https://github.com/technomancy?tab=repositories)
+
 [3]: http://coolshell.cn/articles/11928.html
 [4]: http://coolshell.cn/articles/6775.html
 [5]: http://coolshell.cn/articles/8387.html
