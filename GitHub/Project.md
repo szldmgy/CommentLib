@@ -48,101 +48,6 @@ Windows 客户端，被封禁中。
 [TTPHPServer](https://github.com/Ju2ender/TTPHPServer)
 服务端管理后台。
 
-Java
-----
-
-[Props2JS](https://github.com/Ju2ender/props2js)
-它可以将 Java 属性文件转换为 JSON、JSONP 或 JavaScript 的文件。从而在 JavaScript 
-中实现硬编码（hardcoded）和逻辑的分离。
-
-[maven-guide-zh](https://github.com/Ju2ender/maven-guide-zh)
-《Maven 权威指南》一书的中文版。Maven 是 Java 平台一个很有名的包管理器。
-
-[identicon](https://github.com/Ju2ender/identicon)
-Identicon 是一种基于用户信息的哈希值生成图像的技术，通常使用用户登录时的IP地址作为输入值，并作为生成新建用户时的初始化头像用于保护用户隐私。其雏形是由九个方格构成的图案，现在第三方开发还有其他类型的生成模式。详见 [wiki](http://zh.wikipedia.org/wiki/Identicon)。
-
-Android
--------
-
-[android](https://github.com/Ju2ender/android)
-GitHub 官方 Android App，采用 Hybrid 方式。
-
-Swift
------
-
-[firefox-ios](https://github.com/Ju2ender/firefox-ios)    
-Mozilla 在 iOS 平台推出的 Firefox 浏览器，用到了 Swift 和 Objective-C。
-
-[watch-simulator](https://github.com/Ju2ender/watch-simulator)
-国外技术宅在 Apple Watch 尚未发布时就迫不及待的鼓捣了这么个模拟器。
-
-[HackerNews](https://github.com/Ju2ender/HackerNews)
-Swift 版 HackerNews 阅读器。
-
-Python
-------
-
-[Django](https://github.com/Ju2ender/django)
-Python Web 开发中很有名的一个框架。
-
-[Learning Django](https://github.com/Ju2ender/learning-django)
-书[『Python Web Development with Django』](http://book.douban.com/review/5465791/) 的部分示例代码。
-
-[Lucky](https://github.com/Ju2ender/Lucky)
-PyGTK完成的抽奖小程序。
-
-[Coursera](https://github.com/Ju2ender/coursera)
-从 Coursera.org 上下载视频并为其命名。
-
-[Chisel](https://github.com/Ju2ender/chisel)
-LLDB 指令组件集合，用于调试 iOS 应用。
-
-[AmonOne](https://github.com/Ju2ender/amonone)
-现代化的自托管服务器监控工具。
-
-JavaScript
-----------
-
-[Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
-
-[AngularJS](https://github.com/Ju2ender/angular.js)
-AngularJS 诞生于2009 年，它是一种新的 Web 应用构建思想：它尝试去弥补 HTML 自身的不足，通过添加标识符让浏览器识别新语法。
-
-[satellizer](https://github.com/sahat/satellizer)
-基于 AngularJS 的多账户登录项目。
-
-[html5-uki](https://github.com/bartuer/html5-uki)
-
-[less.js](https://github.com/Ju2ender/less.js)
-Leaner CSS.
-
-jQuery
-------
-
-[jquery_lazyload](https://github.com/tuupola/jquery_lazyload)
-jQuery 延迟加载插件。
-
-[jquery-cookie](https://github.com/carhartl/jquery-cookie)
-jQuery 获取、设置 cookie 插件。
-
-[jquery-pjax](https://github.com/Ju2ender/jquery-pjax)
-异步请求页面，实现无刷新而改变页面 url、内容的效果。
-
-[quicksand](https://github.com/Ju2ender/quicksand)
-用动画来展示元素载入和过滤。
-
-Node.js
--------
-
-[nvm](https://github.com/Ju2ender/nvm)
-管理 Node.js 版本的 bash 脚本。
-
-[esprima](https://github.com/Ju2ender/esprima)
-这个厉害了，ECMAScript 5.1 的解释器。
-
-[xxb](https://github.com/Ju2ender/xxb)
-播报"xx宝"收益的命令行工具。
-
 Cocos2d-JS
 ----------
 
@@ -151,28 +56,6 @@ Cocos2d-JS
 
 [cocos2d-js](https://github.com/Ju2ender/cocos2d-js)
 Cocos2d-JS 项目源代码，Cocos2d-JS 是一个致力与移动设备 JavaScript 游戏引擎的项目。
-
-Scheme
-------
-
-[harlan](https://github.com/Ju2ender/harlan)
-用于 GPG 图形计算的语言。
-
-[gambit-iphone-example](https://github.com/Ju2ender/gambit-iphone-example)
-用 Objective-C 编写的 Scheme 解释器。
-
-[miniKanren](https://github.com/Ju2ender/miniKanren)
-
-Common Lisp
------------
-
-[lisp-koans](https://github.com/Ju2ender/lisp-koans)
-学习 Common Lisp 的练习。
-
-Clojure
--------
-
-[ClojureScript](https://github.com/clojure/clojurescript)
 
 C
 -
@@ -198,15 +81,6 @@ Bash
 ----
 
 [oh-my-zsh][31]: 管理 zsh 配置的工具。
-
-Ruby
-----
-
-[basecamp](https://github.com/Ju2ender/basecamp)
-37signals 的一个 Web 项目。
-
-[Task List](https://github.com/Ju2ender/task_list)
-GitHub 自己的 Markdown 格式，可以添加 checkbox 的语法支持。
 
 [15]: https://github.com/nolimits4web/Framework7
 [21]: https://github.com/microsoft/dotnet

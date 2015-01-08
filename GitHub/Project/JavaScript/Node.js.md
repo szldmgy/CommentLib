@@ -26,3 +26,12 @@ Node.js 的包管理器。在安装 Node.js 时默认包含。
 
 [UglifyJS2](https://github.com/Ju2ender/UglifyJS2)
 UglifyJS 的第二版。
+
+[nvm](https://github.com/Ju2ender/nvm)
+管理 Node.js 版本的 bash 脚本。
+
+[esprima](https://github.com/Ju2ender/esprima)
+这个厉害了，ECMAScript 5.1 的解释器。
+
+[xxb](https://github.com/Ju2ender/xxb)
+播报"xx宝"收益的命令行工具。
