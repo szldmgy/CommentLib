@@ -1,6 +1,16 @@
 Shortcuts
 =========
 
+`command` 对应左侧导航栏区域。加 1 至 8，例如 `command + 1` ，分别打开对应的八个面板。
+加 0，则隐藏导航栏。
+
+`command + option` 对应右侧工具栏上部分。加 1 至 6，例如 `command + option + 1`，
+分别打开对应的六个面板。
+加 0，则隐藏工具栏。
+
+`command + option + control` 对应右侧工具栏下部分。加 1 至 4，例如 `command + option + control + 1`，
+分别打开对应的四个面板。
+
 View
 ----
 
