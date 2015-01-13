@@ -49,6 +49,9 @@ Objective-C
 
 [Nate Stedman](https://github.com/natestedman?tab=repositories)
 
+[Mattt Thompson](https://github.com/mattt)
+AFNetworking 网络框架作者。
+
 Lisper
 ------
 
