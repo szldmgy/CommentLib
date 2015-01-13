@@ -11,7 +11,7 @@ Network
 -------
 
 [AFNetworking](https://github.com/Ju2ender/AFNetworking)
-令人愉快的 iOS、OS X 网络框架。
+令人愉快的 iOS、OS X 网络框架。[Doc](http://cocoadocs.org/docsets/AFNetworking/2.5.0/)
 
 [AFOAuth1Client](https://github.com/Ju2ender/AFOAuth1Client)
 在 AFNetworking 网络框架上做的 OAuth 1.0a 鉴权扩展。
