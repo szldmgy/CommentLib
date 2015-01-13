@@ -42,7 +42,12 @@ RequireJS 项目作者。
 
 [Hawstein](https://github.com/Hawstein?tab=repositories)
 
+Objective-C
+-----------
+
 [codinggirl](https://github.com/codinggirl?tab=repositories)
+
+[Nate Stedman](https://github.com/natestedman?tab=repositories)
 
 Lisper
 ------

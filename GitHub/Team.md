@@ -20,3 +20,9 @@ AngularJS 团队。
 
 [RequireJS](https://github.com/requirejs)
 RequireJS 是一个管理 JavaScript 加载的工具，官方团队。
+
+[eBay](https://github.com/eBay)
+
+[Google](https://github.com/Google)
+
+[Blizzard](https://github.com/Blizzard)
