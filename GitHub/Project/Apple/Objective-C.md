@@ -7,6 +7,12 @@ Objective-C
 [RTImageAssets](https://github.com/Ju2ender/RTImageAssets)
 Xcode 插件，自动根据 3 倍图生成 2 倍、1 倍图。
 
+Layout
+------
+
+[Masonry](https://github.com/Ju2ender/Masonry)
+布局类库，支持 iOS 和 OS X 界面布局。
+
 Network
 -------
 
