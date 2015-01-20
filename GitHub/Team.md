@@ -26,3 +26,5 @@ RequireJS 是一个管理 JavaScript 加载的工具，官方团队。
 [Google](https://github.com/Google)
 
 [Blizzard](https://github.com/Blizzard)
+
+[Twitter](https://github.com/twitter)
