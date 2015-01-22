@@ -28,3 +28,6 @@ RequireJS 是一个管理 JavaScript 加载的工具，官方团队。
 [Blizzard](https://github.com/Blizzard)
 
 [Twitter](https://github.com/twitter)
+
+[Light Table](https://github.com/LightTable)
+使用 Clojure 编写的现代化 IDE，及其插件。

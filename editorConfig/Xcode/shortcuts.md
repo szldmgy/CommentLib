@@ -11,6 +11,10 @@ Shortcuts
 `command + option + control` 对应右侧工具栏下部分。加 1 至 4，例如 `command + option + control + 1`，
 分别打开对应的四个面板。
 
+`option + three finger` 模拟两个手指，移动可实现两个手指的缩放、旋转。
+
+`shift + option + three finger` 模拟两个手指固定位置移动。
+
 View
 ----
 
