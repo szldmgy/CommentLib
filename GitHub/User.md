@@ -52,6 +52,8 @@ Objective-C
 [Mattt Thompson](https://github.com/mattt)
 AFNetworking 网络框架作者。
 
+[Victor Pena](https://github.com/vicpenap?tab=repositories)
+
 Lisper
 ------
 
