@@ -12,14 +12,6 @@ Objective-C iOS
 
 [HysteriaPlayer](https://github.com/Ju2ender/HysteriaPlayer)
 
-Hacker
-------
-
-[iphone-private-frameworks](https://github.com/Ju2ender/iphone-private-frameworks)
-iOS 私有库列表。
-
-[call_at_anywhere](https://github.com/Ju2ender/call_at_anywhere)
-
 Hierarchy viewer
 ----------------
 
