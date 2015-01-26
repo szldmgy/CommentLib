@@ -19,3 +19,12 @@ class dump是一个命令行工具，用来监测存储在Mach-O二进制文件�
 [Class-Dump-GUI](https://github.com/Ju2ender/Class-Dump-GUI)
 
 [call_at_anywhere](https://github.com/Ju2ender/call_at_anywhere)
+
+私有 API 查看
+------------
+
+[RuntimeBrowser](https://github.com/Ju2ender/RuntimeBrowser)
+查看 Objective-C 运行时信息，可以在 iOS 和 OS X 上运行。
+
+[iOS-Runtime-Headers](https://github.com/Ju2ender/iOS-Runtime-Headers)
+用上面的 RuntimeBrowser 工具生成好的 iOS 私有 API 列表。
