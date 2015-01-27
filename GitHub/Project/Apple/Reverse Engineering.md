@@ -1,5 +1,5 @@
-Hack
-====
+Reverse Engineering
+===================
 
 [iphone-private-frameworks](https://github.com/Ju2ender/iphone-private-frameworks)
 iOS 私有库列表。但是上面说只支持 iPhoneOS 3.x 4.x 暂不支持。iPhoneOS 是 iOS 的旧称，还是 3.x，
@@ -28,3 +28,9 @@ class dump是一个命令行工具，用来监测存储在Mach-O二进制文件�
 
 [iOS-Runtime-Headers](https://github.com/Ju2ender/iOS-Runtime-Headers)
 用上面的 RuntimeBrowser 工具生成好的 iOS 私有 API 列表。
+
+Blackbox tool
+-------------
+
+[ios-ssl-kill-switch](https://github.com/Ju2ender/ios-ssl-kill-switch)
+关闭 iOS SSL 安全验证。
