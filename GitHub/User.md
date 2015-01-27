@@ -54,6 +54,9 @@ AFNetworking 网络框架作者。
 
 [Victor Pena](https://github.com/vicpenap?tab=repositories)
 
+[Wei Wang](https://github.com/onevcat)
+iOS/Unity3D 开发者，旅居日本，正在自学设计
+
 Lisper
 ------
 

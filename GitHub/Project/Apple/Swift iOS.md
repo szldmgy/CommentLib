@@ -12,3 +12,9 @@ Mozilla 在 iOS 平台推出的 Firefox 浏览器，用到了 Swift 和 Objectiv
 
 [HackerNews](https://github.com/Ju2ender/HackerNews)
 Swift 版 HackerNews 阅读器。
+
+[RandomColorSwift](https://github.com/Ju2ender/RandomColorSwift)
+随机生成好看颜色。
+
+[Developing_iOS_8_Apps_With_Swift](https://github.com/Ju2ender/Developing_iOS_8_Apps_With_Swift)
+斯坦福公开课，用 Swift 开发 iOS 8 应用字母。
