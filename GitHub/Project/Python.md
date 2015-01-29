@@ -26,3 +26,7 @@ LLDB 指令组件集合，用于调试 iOS 应用。
 贪吃蛇真的很贪吃。
 
 [goagent-1](https://github.com/Ju2ender/goagent-1)
+
+[glances](https://github.com/Ju2ender/glances)
+用于 Linux、BSD 的开源命令行系统监视工具，它使用 Python 语言开发，能够监视 CPU、负载、内存、
+磁盘I/O、网络流量、文件系统、系统温度等信息。
