@@ -23,3 +23,9 @@ UI
 
 [PrettyKit](https://github.com/Ju2ender/PrettyKit)
 控件集，但样式比较老，iOS 6 风格。
+
+动画
+---
+
+[CATransitionDemo](https://github.com/Ju2ender/CATransitionDemo)
+iOS开发之各种动画各种页面切面效果。
