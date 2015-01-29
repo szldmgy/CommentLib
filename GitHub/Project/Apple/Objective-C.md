@@ -32,4 +32,4 @@ Doc
 ---
 
 [AppleDoc](https://github.com/Ju2ender/appledoc)
-文档生成器
+文档生成工具。
