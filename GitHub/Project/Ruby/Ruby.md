@@ -16,3 +16,6 @@ a Scheme written in Ruby, but implemented on the bus!
 [bundler](https://github.com/Ju2ender/bundler)
 
 [pages-gem](https://github.com/Ju2ender/pages-gem)
+
+[Resume](http://resume.github.com/)
+根据 GitHub 信息生成个人简历。
