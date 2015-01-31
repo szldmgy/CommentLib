@@ -36,3 +36,12 @@ Blackbox tool
 
 [iOS SSL kill switch](https://github.com/Ju2ender/ios-ssl-kill-switch)
 关闭 iOS SSL 安全验证。
+
+Debug
+-----
+
+[PonyDebugger](https://github.com/Ju2ender/PonyDebugger)
+用 Chrome Developer Tool 来调试 iOS App，支持查看网络加载、界面 XML 层级等。
+
+[PonyDebuggerInjected](https://github.com/Ju2ender/PonyDebuggerInjected)
+能让 PonyDebugger 注入到运行中的程序。
