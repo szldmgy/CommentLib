@@ -1,13 +1,13 @@
 Reverse Engineering
 ===================
 
-[iphone-private-frameworks](https://github.com/Ju2ender/iphone-private-frameworks)
+[iPhone Private Frameworks](https://github.com/Ju2ender/iphone-private-frameworks)
 iOS 私有库列表。但是上面说只支持 iPhoneOS 3.x 4.x 暂不支持。iPhoneOS 是 iOS 的旧称，还是 3.x，
 iOS 如今已经 8.x 了。所以此库过于陈旧，新版见 fork 原始库指引，便是下面一个库
 
-[iphoneheaders](https://github.com/rpetrich/iphoneheaders/)
+[iPhoneHeaders](https://github.com/rpetrich/iphoneheaders/)
 
-[theos](https://github.com/Ju2ender/theos)
+[Theos](https://github.com/Ju2ender/theos)
 基于 Make 的编译工具。
 
 [iOSOpenDev](https://github.com/Ju2ender/iOSOpenDev)
@@ -28,11 +28,11 @@ class dump 是一个命令行工具，用来监测存储在 Mach-O 二进制文�
 只要设备和 Mac 在同一个网络里，就可以在 Mac 浏览器中输入 http://localhost:10000 来查看私有
 API 列表。
 
-[iOS-Runtime-Headers](https://github.com/Ju2ender/iOS-Runtime-Headers)
+[iOS Runtime Headers](https://github.com/Ju2ender/iOS-Runtime-Headers)
 用上面的 RuntimeBrowser 工具生成好的 iOS 私有 API 列表。
 
 Blackbox tool
 -------------
 
-[ios-ssl-kill-switch](https://github.com/Ju2ender/ios-ssl-kill-switch)
+[iOS SSL kill switch](https://github.com/Ju2ender/ios-ssl-kill-switch)
 关闭 iOS SSL 安全验证。
