@@ -55,7 +55,18 @@ AFNetworking 网络框架作者。
 [Victor Pena](https://github.com/vicpenap?tab=repositories)
 
 [Wei Wang](https://github.com/onevcat)
-iOS/Unity3D 开发者，旅居日本，正在自学设计
+iOS/Unity3D 开发者，旅居日本，正在自学设计。
+
+iOS Reverse Engineering
+-----------------------
+
+[Dustin L. Howett (DHowett)](https://github.com/DHowett)
+Theos 作者。
+
+[Jay Freeman (saurik)](https://github.com/saurik)
+Cydia, Cycript, ldid 作者。
+
+[Ryan Petrich (rpetrich)](https://github.com/rpetrich)
 
 Lisper
 ------

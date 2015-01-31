@@ -10,6 +10,8 @@ iOS 如今已经 8.x 了。所以此库过于陈旧，新版见 fork 原始库�
 [Theos](https://github.com/Ju2ender/theos)
 基于 Make 的编译工具。
 
+[Theos NIC Templates](https://github.com/Ju2ender/theos-nic-templates)
+
 [iOSOpenDev](https://github.com/Ju2ender/iOSOpenDev)
 为 Xcode 安装越狱项目模板。
 
@@ -19,6 +21,13 @@ class dump 是一个命令行工具，用来监测存储在 Mach-O 二进制文�
 [Class-Dump-GUI](https://github.com/Ju2ender/Class-Dump-GUI)
 
 [call_at_anywhere](https://github.com/Ju2ender/call_at_anywhere)
+
+[ldid](https://github.com/Ju2ender/ldid)
+签名工具。
+
+[Cydia](https://github.com/Ju2ender/cydia)
+
+[Cycript](https://github.com/Ju2ender/cycript)
 
 私有 API 查看
 ------------
