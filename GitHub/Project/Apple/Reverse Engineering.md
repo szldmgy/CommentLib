@@ -26,6 +26,10 @@ class dump 是一个命令行工具，用来监测存储在 Mach-O 二进制文�
 签名工具。
 
 [Cydia](https://github.com/Ju2ender/cydia)
+使用 `git submodule update --init` 命令初始化依赖项目。
+submodule: 
+[SDURLCache](https://github.com/SaurikIT/SDURLCache.git)
+[icu](git://git.saurik.com/apple/icu.git)
 
 [Cycript](https://github.com/Ju2ender/cycript)
 
