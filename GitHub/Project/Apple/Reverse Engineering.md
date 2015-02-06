@@ -58,3 +58,9 @@ Debug
 
 [PonyDebuggerInjected](https://github.com/Ju2ender/PonyDebuggerInjected)
 能让 PonyDebugger 注入到运行中的程序。
+
+砸壳
+----
+
+[dumpdecrypted](https://github.com/Ju2ender/dumpdecrypted)
+开源锤子。

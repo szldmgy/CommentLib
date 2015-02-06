@@ -4,6 +4,11 @@ Objective-C OS X
 [smcFanControl](https://github.com/Ju2ender/smcFanControl)
 风扇速度控制。OS X 自身是无法控制风扇速度的，会导致 MacBook Pro 等笔记本型夏天散热不佳。
 
+[MPlayerX](https://github.com/Ju2ender/MPlayerX)
+视频播放器。
+
+[mplayer-for-MPlayerX](https://github.com/Ju2ender/mplayer-for-MPlayerX)
+
 [TextMate](https://github.com/textmate/textmate)
 TextMate 2，OS X 上大名鼎鼎的文本编辑工具第二版开源。
 
