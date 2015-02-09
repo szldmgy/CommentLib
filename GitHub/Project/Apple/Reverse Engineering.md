@@ -64,3 +64,5 @@ Debug
 
 [dumpdecrypted](https://github.com/Ju2ender/dumpdecrypted)
 开源锤子。
+
+[FAULTYCrack](https://github.com/KJCracks/FAULTYCrack)

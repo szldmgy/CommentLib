@@ -1,6 +1,9 @@
 Objective-C iOS
 ===============
 
+[Harpy](https://github.com/Ju2ender/Harpy)
+提示用户应用有新版本，并给出 App Store 链接。
+
 [PNChart](https://github.com/Ju2ender/PNChart)
 图表工具类。
 
