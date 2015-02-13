@@ -44,6 +44,12 @@ API 列表。
 [iOS Runtime Headers](https://github.com/Ju2ender/iOS-Runtime-Headers)
 用上面的 RuntimeBrowser 工具生成好的 iOS 私有 API 列表。
 
+[iOS7-Private-Header](https://github.com/masbog/iOS7-Private-Header)
+次一些的，我就不 fork 了，是用一个 Ruby 工具 private-dumper 获取的。
+
+[private-dumper](https://github.com/jfahrenkrug/private-dumper)
+获取上面 iOS7-Private-Header 所用到的工具，Ruby 的我就不细细研究 fork 了。
+
 Blackbox tool
 -------------
 
@@ -66,3 +72,26 @@ Debug
 开源锤子。
 
 [FAULTYCrack](https://github.com/KJCracks/FAULTYCrack)
+
+实例
+----
+
+[iOSreLottery](https://github.com/Ju2ender/iosrelottery)
+抽奖插件。
+
+[RootApp](https://github.com/Ju2ender/RootApp)
+将 Theos 以 root 权限运行例子。
+
+[noproblem](https://github.com/Ju2ender/noproblem)
+不将 iOS 的崩溃日志发给苹果，而是发给 @openjailbreak
+
+[LowPowerBanner](https://github.com/Ju2ender/LowPowerBanner)
+以横幅的形式进行低电量提示，而不是警告。
+
+
+
+
+
+
+
+

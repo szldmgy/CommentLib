@@ -68,6 +68,12 @@ Cydia, Cycript, ldid 作者。
 
 [Ryan Petrich (rpetrich)](https://github.com/rpetrich)
 
+[iOSRE](https://github.com/iosre)
+《iOS 应用逆向工程分析与实战》一书官方帐号。
+
+[snakeninny](https://github.com/snakeninny?tab=repositories)
+《iOS 应用逆向工程分析与实战》一书作者之一。
+
 Lisper
 ------
 
