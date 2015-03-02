@@ -18,6 +18,22 @@ Objective-C iOS
 [filebrowser](https://github.com/Ju2ender/filebrowser)
 浏览 iOS 上的文件。
 
+Music, Sound 音乐、声音
+----------------------
+
+[OrigamiEngine](https://github.com/Ju2ender/OrigamiEngine)
+轻量音频引擎，支持 iOS 和 OS X，opus, flac, mp3, m4a, wav 格式，以及 cue, m3u 格式的播放列表。
+
+[Origami](https://github.com/Ju2ender/Origami-1)
+iOS 上不可或缺的音频播放器。
+
+Prototyping 原型设计
+-------------------
+
+[origami](https://github.com/Ju2ender/origami)
+Facebook 推出的不编码变设计 App 产品原型的工具，并开源。
+[Official site](http://facebook.github.io/origami/tutorials/)
+
 页面层级查看、调试
 ----------------
 
