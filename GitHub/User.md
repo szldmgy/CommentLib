@@ -74,6 +74,8 @@ Cydia, Cycript, ldid 作者。
 [snakeninny](https://github.com/snakeninny?tab=repositories)
 《iOS 应用逆向工程分析与实战》一书作者之一。
 
+[winocm](https://github.com/winocm?tab=repositories)
+
 Lisper
 ------
 

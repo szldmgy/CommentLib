@@ -72,6 +72,10 @@ Debug
 开源锤子。
 
 [FAULTYCrack](https://github.com/KJCracks/FAULTYCrack)
+dumpdecrypted 的一个 Fork。
+
+[opensn0w](https://github.com/Ju2ender/opensn0w)
+An open source jailbreaking program.
 
 实例
 ----

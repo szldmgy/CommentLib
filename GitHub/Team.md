@@ -31,3 +31,6 @@ RequireJS 是一个管理 JavaScript 加载的工具，官方团队。
 
 [Light Table](https://github.com/LightTable)
 使用 Clojure 编写的现代化 IDE，及其插件。
+
+[AlloyTeam](https://github.com/AlloyTeam)
+腾讯前端团队。不过项目很久没更新过。

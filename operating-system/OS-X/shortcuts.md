@@ -30,6 +30,10 @@ Screen
 
 `shift + command + 4`: 截取选定区域。
 
+`command + F3`: 作用同 `fn + F11` 展现桌面
+
+`shift + command + F3`: 展现桌面，但速度较慢，能在过程中重复按这组键来逆向
+
 Volume
 ------
 

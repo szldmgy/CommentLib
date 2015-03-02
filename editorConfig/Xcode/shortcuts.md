@@ -47,9 +47,13 @@ Edit
 Navigate
 --------
 
-`control + command + ←`: Go Back
+`control + command + left arraw`: Go Back
 
-`control + command + →`: Go Forward
+`control + command + right arraw`: Go Forward
+
+`option + command + left arraw`: 折叠代码
+
+`option + command + right arrow`: 展开代码
 
 Help
 ----

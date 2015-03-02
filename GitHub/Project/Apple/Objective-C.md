@@ -13,6 +13,12 @@ Layout
 [Masonry](https://github.com/Ju2ender/Masonry)
 布局类库，支持 iOS 和 OS X 界面布局。
 
+Animation
+---------
+
+[pop](https://github.com/Ju2ender/pop)
+可扩展的 iOS、OS X 平台动画框架。
+
 Network
 -------
 

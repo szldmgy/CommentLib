@@ -9,3 +9,6 @@ iOS 核心动画高级技术。
 
 [the-swift-programming-language-in-chinese](https://github.com/Ju2ender/the-swift-programming-language-in-chinese)
 《The Swift Programming Language》中文版。
+
+[iOS7-UI-Guildlines-To-Chinese](https://github.com/Ju2ender/iOS7-UI-Guildlines-To-Chinese)
+iOS 7 界面设计指导。
