@@ -13,7 +13,7 @@ User
 [JackyChi](https://github.com/jackychi)
 池建强，『Mac Talk』作者。
 
-[Jackson Tian](https://github.com/JacksonTia)
+[Jackson Tian](https://github.com/JacksonTian)
 田永强，现就职于淘宝，花名朴灵。
 
 [justzx](https://github.com/justzx2011)
