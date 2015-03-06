@@ -1,6 +1,17 @@
 CommentLib
 ==========
 
+[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)
+UITableViewCell 的子类，能够方便的创建侧滑显示按钮的功能。
+
+[WKFlipsView](https://github.com/adow/WKFlipsView)
+实现类似Flipboard中那样的翻页效果
+
+[adow's blog](http://codingnext.com/)
+
+[hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme/blob/gh-pages/_layouts/post.html)
+学习 Jekyll 制作博客。
+
 包含三部分内容：
 - 注释模板
 - 代码快
