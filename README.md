@@ -12,6 +12,8 @@ UITableViewCell 的子类，能够方便的创建侧滑显示按钮的功能。
 [hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme/blob/gh-pages/_layouts/post.html)
 学习 Jekyll 制作博客。
 
+[一个女程序员的故事](http://www.wxzzz.com/1322.html)
+
 包含三部分内容：
 - 注释模板
 - 代码快
