@@ -1,0 +1,19 @@
+Fiddler
+=======
+
+Request body
+------------
+
+User-Agent: Fiddler
+content-type: application/json;charset=utf-8
+Host: localhost
+Content-Length: 241
+ContractInfo: Feature.Zhaogang.PriceManage.Contracts.Trading.SetRelatedBlockedStatusByConditionContract
+
+
+{
+    "BlockedStatus": 1,
+    "OperatorID": 1000,
+    "OperatorIP": "127.0.0.1",
+    "OperatorName": "Ju2ender"
+}

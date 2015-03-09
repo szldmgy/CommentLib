@@ -1,6 +1,16 @@
 CommentLib
 ==========
 
+[LLVM Download Page](http://llvm.org/releases/download.html)
+
+[iOS开发](http://www.cocoachina.com/ios/)
+
+[iOS 8 特性和界面](http://www.cocoachina.com/special/ios8/)
+
+[CocoaChina 技术专题](http://www.cocoachina.com/special/)
+
+[源码推荐（3.5）：iOS录音和播放功能demo,多样式进度指示器](http://www.cocoachina.com/ios/20150305/11223.html)
+
 [有道云笔记](http://note.youdao.com/download.html#mac)
 
 [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)
