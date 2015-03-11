@@ -12,7 +12,12 @@ Scheme 的方言。
 [Processing](https://github.com/Ju2ender/processing)
 用 Java 开发。
 
-[Ocaml](https://github.com/ocaml/ocaml#)
+[Ocaml](https://github.com/ocaml/ocaml)
 
 [Clojure](https://github.com/Ju2ender/clojure)
 [Wiki](http://zh.wikipedia.org/wiki/Clojure)
+
+[Rust](https://github.com/Ju2ender/rust)
+[Wiki](http://zh.wikipedia.org/wiki/Rust)
+由 Mozilla 主导开发的实验性跨平台编译型编程语言。它的设计准则是：安全、并发、实用。
+支持函数式、并发式、过程式以及面向对象的编程风格。
