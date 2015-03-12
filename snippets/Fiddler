@@ -12,8 +12,5 @@ ContractInfo: Feature.Zhaogang.PriceManage.Contracts.Trading.SetRelatedBlockedSt
 
 
 {
-    "BlockedStatus": 1,
-    "OperatorID": 1000,
-    "OperatorIP": "127.0.0.1",
-    "OperatorName": "Ju2ender"
+    "ParaGroupId": 9007
 }

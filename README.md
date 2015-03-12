@@ -1,6 +1,31 @@
 CommentLib
 ==========
 
+[元编程艺术，第 1 部分: 元编程简介](http://www.ibm.com/developerworks/cn/linux/l-metaprog1.html)
+[Scheme 语言概要(上)](http://www.ibm.com/developerworks/cn/linux/l-schm/index1.html)
+[文档库](http://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp?sort_by=&show_abstract=true&show_all=&search_flag=&contentarea_by=%E6%89%80%E6%9C%89%E4%B8%93%E5%8C%BA&search_by=Scheme&product_by=-1&topic_by=-1&type_by=%E6%89%80%E6%9C%89%E7%B1%BB%E5%88%AB&ibm-search=%E6%90%9C%E7%B4%A2)
+[元编程艺术，第 2 部分: 用 Scheme 进行元编程](http://www.ibm.com/developerworks/cn/linux/l-metaprog2.html)
+
+[objc.io#21#iOS 上的相机捕捉](http://www.cocoachina.com/ios/20150311/11296.html)
+[IOS hide status bar隐藏状态栏](http://blog.csdn.net/hamasn/article/details/17446915)
+[How To Setup And Use NativeControls In PhoneGap](http://nathancampos.me/post/23831039066/how-to-setup-and-use-nativecontrols-in-phonegap)
+
+[越狱检测的攻与防](http://blog.csdn.net/yiyaaixuexi/article/details/20286929)
+[iOS常用控件尺寸大集合](http://blog.csdn.net/yiyaaixuexi/article/details/7787456)
+[iOS开发学习笔记——UITableview](http://blog.csdn.net/yiyaaixuexi/article/details/7357923)
+[lingzhou1的专栏](http://blog.csdn.net/lingzhou1)
+[iOS开发练习小程序——秒表](http://blog.csdn.net/yiyaaixuexi/article/details/7365493)
+[念茜的博客](http://blog.csdn.net/yiyaaixuexi/article/month/2012/03)
+[IOS7如何获取设备唯一标识](http://www.cnblogs.com/max5945/archive/2013/06/24/3152292.html)
+[《Iphone开发基础教程》-第二章 创建基本项目](http://blog.sina.com.cn/s/blog_60b45f230100dny0.html)
+[前方的道路该如何走？](http://blog.sina.com.cn/s/blog_60b45f230100e98s.html)
+[完美冠军之家的博客](http://blog.sina.com.cn/s/articlelist_1622433571_0_5.html)
+
+[Reveal使用步骤和 破解Revealapp的试用时间限制](http://blog.csdn.net/sunyazhou13/article/details/21698425)
+
+[UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet)
+iOS 背景模糊
+
 [源码推荐（3.10）：类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果](http://www.cocoachina.com/ios/20150310/11282.html)
 
 [唐巧访谈： iOS大V的技术进阶之路](http://www.cocoachina.com/programmer/20150115/10930.html)
@@ -18,6 +43,10 @@ CommentLib
 [屌丝就是这样才会孤独一生的](http://www.miaopai.com/show/x7JzplCHuLeX7lz-EpP4aw__.htm)
 
 [Understanding delete](http://perfectionkills.com/understanding-delete/)
+[How can I upload files asynchronously?](http://stackoverflow.com/questions/166221/how-can-i-upload-files-asynchronously)
+[How to remove a property from a JavaScript object](http://stackoverflow.com/questions/208105/how-to-remove-a-property-from-a-javascript-object)
+[jQuery / Javascript - How do I convert a pixel value (20px) to a number value (20)](http://stackoverflow.com/questions/3024084/jquery-javascript-how-do-i-convert-a-pixel-value-20px-to-a-number-value-2)
+[REQUIREJS OPTIMIZER](http://requirejs.org/docs/optimization.html)
 
 [LLVM Download Page](http://llvm.org/releases/download.html)
 
