@@ -1,11 +1,38 @@
 CommentLib
 ==========
 
+晚上回去给 iPhone4S 越狱。
+文字扫描识别。先英文字母和数字。
+不能相机识别文字，可以拍照后识别图片。
+
+[UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet)
+iOS 背景模糊
+
+[Debugging](https://developer.apple.com/support/technical/debugging/)
+[Xcode概览：调试应用程序](http://www.cocoachina.com/ios/20141128/10358.html)
+[Xcode概览：运行您的应用](http://www.cocoachina.com/ios/20141212/10600.html)
+[最直观的Xcode快捷键展示](http://www.cocoachina.com/ios/20141217/10671.html)
+[App Extension的脱壳办法](http://www.cocoachina.com/ios/20150312/11310.html)
+
+[Creating a branch or tag in Git](https://www.drupal.org/node/1066342)
+
+[The Best Image-to-Text App for iPhone](http://lifehacker.com/5829568/the-best-image-to-text-app-for-iphone)
+[iPhone app相機識別即時翻譯工具程式](http://www.waalii.com/home/wfree/201307/20130711-04-scandic-si-gen-pai-zhao-fan)
+[dumpdecrypted](https://github.com/stefanesser/dumpdecrypted)
+
 [元编程艺术，第 1 部分: 元编程简介](http://www.ibm.com/developerworks/cn/linux/l-metaprog1.html)
 [Scheme 语言概要(上)](http://www.ibm.com/developerworks/cn/linux/l-schm/index1.html)
 [文档库](http://www.ibm.com/developerworks/cn/views/linux/libraryview.jsp?sort_by=&show_abstract=true&show_all=&search_flag=&contentarea_by=%E6%89%80%E6%9C%89%E4%B8%93%E5%8C%BA&search_by=Scheme&product_by=-1&topic_by=-1&type_by=%E6%89%80%E6%9C%89%E7%B1%BB%E5%88%AB&ibm-search=%E6%90%9C%E7%B4%A2)
 [元编程艺术，第 2 部分: 用 Scheme 进行元编程](http://www.ibm.com/developerworks/cn/linux/l-metaprog2.html)
 
+[iOS 调用手机震动功能](http://blog.sina.com.cn/s/blog_8be86ad30102v1qa.html)
+[IOS开发/iphone开发震动与播放声音Demo](http://blog.sina.com.cn/s/blog_68661bd80101d2bj.html)
+[治疗近视的方法](http://blog.sina.com.cn/s/blog_8be86ad30100xhtr.html)
+[iOS Xcode6中添加Empty Application模板](http://blog.sina.com.cn/s/blog_8be86ad30102v1w2.html)
+[iOS 关于iOS8地图定位问题](http://blog.sina.com.cn/s/blog_8be86ad30102v1r0.html)
+[Google search keyword: iOS 调用 震动](https://search.disconnect.me/searchTerms/serp?search=9db866a4-3f90-4d48-ad21-afdb3b2ec060)
+[fishhook](https://github.com/facebook/fishhook)
+[iOS安全攻防（十七）：Fishhook](http://blog.csdn.net/yiyaaixuexi/article/details/19094765)
 [objc.io#21#iOS 上的相机捕捉](http://www.cocoachina.com/ios/20150311/11296.html)
 [IOS hide status bar隐藏状态栏](http://blog.csdn.net/hamasn/article/details/17446915)
 [How To Setup And Use NativeControls In PhoneGap](http://nathancampos.me/post/23831039066/how-to-setup-and-use-nativecontrols-in-phonegap)
@@ -22,9 +49,6 @@ CommentLib
 [完美冠军之家的博客](http://blog.sina.com.cn/s/articlelist_1622433571_0_5.html)
 
 [Reveal使用步骤和 破解Revealapp的试用时间限制](http://blog.csdn.net/sunyazhou13/article/details/21698425)
-
-[UICustomActionSheet](https://github.com/pchernovolenko/UICustomActionSheet)
-iOS 背景模糊
 
 [源码推荐（3.10）：类似QQ消息拖拽消失的交互+GameCenter的浮动小球效果](http://www.cocoachina.com/ios/20150310/11282.html)
 
