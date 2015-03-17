@@ -68,6 +68,12 @@ Debug
 [ios-webkit-debug-proxy](https://github.com/Ju2ender/ios-webkit-debug-proxy)
 Webkit 远程调试。
 
+越狱工具
+-------
+
+[p0sixspwn](https://github.com/Ju2ender/p0sixspwn)
+可以实现 iOS 6.1.3 ~ 6.1.6 的越狱。
+
 砸壳
 ----
 
