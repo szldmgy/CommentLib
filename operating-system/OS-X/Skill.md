@@ -1,6 +1,21 @@
 Skill
 =====
 
+查看 IP
+-------
+
+```bash
+$ ifconfig
+```
+
+但输入 ifconfig 命令会出来很多信息，可以过滤掉多余的信息：
+
+```bash
+$ ifconfig | grep "inet " | grep -v 127.0.0.1
+```
+
+紧跟 inet 后面的便是本机 IP 地址。
+
 通过命令行关机、重启
 -----------------
 

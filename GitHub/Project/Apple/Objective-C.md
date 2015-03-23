@@ -7,6 +7,9 @@ Objective-C
 [RTImageAssets](https://github.com/Ju2ender/RTImageAssets)
 Xcode 插件，自动根据 3 倍图生成 2 倍、1 倍图。
 
+[FFmpeg](http://ffmpeg.org/)
+跨平台解析、转换音频、视频。
+
 Layout
 ------
 
