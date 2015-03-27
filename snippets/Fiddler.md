@@ -1,6 +1,8 @@
 Fiddler
 =======
 
+POST http://localhost/VersionPublish.Api/
+
 Request body
 ------------
 
