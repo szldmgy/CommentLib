@@ -242,3 +242,10 @@ inStr('some string', 'c', 1, 1)
 select 'string'
 from dual
 where regexp_like('string', '(^[+-]?\d{0,}\.?\d{0,}$)');
+
+/**
+ * Search something like
+ */
+select *
+from table
+where column like '%' || 'something' || '%';
