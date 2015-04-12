@@ -1,0 +1,15 @@
+/* 设置字间距 */
+letter-spacing: 1px;
+
+/* 转换大小写，lowercase：小写，uppercase：大写 */
+text-transform: uppercase;
+
+/* 设置选择文字的颜色 */
+::selection {
+    background: rgba(50, 100, 128, 0.2);
+    background: #FF0051;
+    color: white;
+}
+
+/* 去除 Chrome 控件获得焦点时的高亮效果 */
+outline: none;
