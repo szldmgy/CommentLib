@@ -249,3 +249,15 @@ where regexp_like('string', '(^[+-]?\d{0,}\.?\d{0,}$)');
 select *
 from table
 where column like '%' || 'something' || '%';
+
+/**
+ * if block
+ */
+
+if param = 1
+then 
+    ...
+elsif param = 2
+then
+    ...
+endif;
