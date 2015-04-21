@@ -1,6 +1,9 @@
 Node.js
 =======
 
+[node-inspector](https://github.com/Ju2ender/node-inspector)
+基于 Node.js 的浏览器端调试工具，现在仅支持 0.11.14 以下版本的 Node.js
+
 [node-supervisor](https://github.com/Ju2ender/node-supervisor)
 监视项目文件改动，有改动重启 node 服务器的小工具。
 
