@@ -1,6 +1,9 @@
 Node.js
 =======
 
+[shelljs](https://github.com/Ju2ender/shelljs)
+让 shell 命令在 Node.js 中运行。
+
 [node-inspector](https://github.com/Ju2ender/node-inspector)
 基于 Node.js 的浏览器端调试工具，现在仅支持 0.11.14 以下版本的 Node.js
 
