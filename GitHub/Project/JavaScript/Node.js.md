@@ -1,6 +1,9 @@
 Node.js
 =======
 
+[bower](https://github.com/Ju2ender/bower)
+Web Front-end 包管理器。
+
 [shelljs](https://github.com/Ju2ender/shelljs)
 让 shell 命令在 Node.js 中运行。
 
