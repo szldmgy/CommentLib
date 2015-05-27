@@ -10,3 +10,6 @@ Java
 
 [identicon](https://github.com/Ju2ender/identicon)
 Identicon 是一种基于用户信息的哈希值生成图像的技术，通常使用用户登录时的IP地址作为输入值，并作为生成新建用户时的初始化头像用于保护用户隐私。其雏形是由九个方格构成的图案，现在第三方开发还有其他类型的生成模式。详见 [wiki](http://zh.wikipedia.org/wiki/Identicon)。
+
+[shift-java](https://github.com/Ju2ender/shift-java)
+Shift format ECMAScript 5 AST tooling
