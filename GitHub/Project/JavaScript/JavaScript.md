@@ -1,6 +1,9 @@
 JavaScript
 ==========
 
+[node-github](https://github.com/Ju2ender/node-github)
+GitHub API Node.js 版本。
+
 [Framework7][15]: 一套在移动设备上构建 iOS 7, 8 风格 App 的框架。
 
 [AngularJS](https://github.com/Ju2ender/angular.js)
