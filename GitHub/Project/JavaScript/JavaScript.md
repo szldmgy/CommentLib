@@ -17,6 +17,10 @@ AngularJS 诞生于2009 年，它是一种新的 Web 应用构建思想：它尝
 [less.js](https://github.com/Ju2ender/less.js)
 Leaner CSS.
 
+[her](https://github.com/Ju2ender/her)
+Front-end integrated solution by hao123.com - Hao123前端集成解决方案。
+
+
 Template 模板引擎
 ----------------
 
