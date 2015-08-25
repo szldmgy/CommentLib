@@ -40,6 +40,8 @@ sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/libkj-async.a /usr/l
 sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/libkj.a /usr/local/lib/libkj.a
 sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/pkgconfig /usr/local/lib/pkgconfig
 
+其实思想就是让这些目录可以被直接调用到，即添加到环境变量中，所以将 `~/.homebrew/Cellar/capnp/0.5.3` 加入环境变量即可。
+
 git clone https://github.com/textmate/textmate.git
 cd textmate
 git submodule update --init
