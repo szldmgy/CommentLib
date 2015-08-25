@@ -27,9 +27,26 @@ sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/bin/capnp /usr/local/bin
 sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/bin/capnpc-c++ /usr/local/bin/capnpc-c++
 sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/bin/capnpc-capnp /usr/local/bin/capnpc-capnp
 
+将 capnp 的头文件手动映射到 `/usr/local/include` 目录中，以便能通过 `#include <capnp/header.h>` 引用：
+```bash
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/include/capnp /usr/local/include/capnp
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/include/kj /usr/local/include/kj
+```
+
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/libcapnp-rpc.a /usr/local/lib/libcapnp-rpc.a
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/libcapnp.a /usr/local/lib/libcapnp.a
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/libcapnpc.a /usr/local/lib/libcapnpc.a
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/libkj-async.a /usr/local/lib/libkj-async.a
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/libkj.a /usr/local/lib/libkj.a
+sudo ln -s /Users/Ju2ender/.homebrew/Cellar/capnp/0.5.3/lib/pkgconfig /usr/local/lib/pkgconfig
+
 git clone https://github.com/textmate/textmate.git
 cd textmate
 git submodule update --init
 ./configure && ninja
 
-最新开发版我没有编译成功。
+References
+----------
+* [capnp official site][1]
+
+[1]: https://capnproto.org/install.html
