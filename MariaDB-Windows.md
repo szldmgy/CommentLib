@@ -6,11 +6,11 @@ Oracle 会将 MySQL 必源，纷纷转向 MariaDB，这其中包括了 Google、
 首先到 [MariaDB 官网][1]下载 Windows 下对应版本，我下载的是 zip 压缩包文件，没有选择 msi
 安装包。
 
-下载完后解压，打开终端，
+下载完后解压，打开终端（我用的是 Windows Git 带的终端）
 
 ```bash
 $ cd <directory-where-zip-was-unpacked>
-$ bin\mysqld --console
+$ bin/mysqld --console
 
 $ bin/mysql
 ```
