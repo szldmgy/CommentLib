@@ -60,6 +60,7 @@ References
 ----------
 
 * [Installing MariaDB Windows ZIP Packages][2]
+* [mysql_install_db.exe][4]
 
 [4]: https://mariadb.com/kb/en/mariadb/mysql_install_dbexe/
 [3]: https://git-for-windows.github.io/
