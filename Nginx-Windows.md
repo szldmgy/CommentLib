@@ -15,4 +15,14 @@ $ nginx -c conf\nginx.conf
 
 在任务管理器中可以看到两个 `nginx.exe *32` 的进程，表示 32 位版本。
 
+References
+----------
+
+* [windows下nginx安装、配置与使用][2]
+* [Windows下Nginx的安装与配置][3]
+* [轻量级HTTP服务器Nginx][4]
+
+[4]: http://ixdba.blog.51cto.com/2895551/778462
+[3]: http://www.cnblogs.com/wenanry/archive/2012/01/18/2325140.html
+[2]: http://www.cnblogs.com/chuncn/archive/2011/10/14/2212291.html
 [1]: http://nginx.org/en/download.html
