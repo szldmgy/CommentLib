@@ -22,5 +22,5 @@ Swift 版 HackerNews 阅读器。
 [LayoutSwift](https://github.com/Ju2ender/LayoutSwift)    
 Swift 布局工具。
 
-[SnapKit](https://github.com/Ju2ender/SnapKit)
+[SnapKit](https://github.com/Ju2ender/SnapKit)    
 Swift 布局工具其二。
