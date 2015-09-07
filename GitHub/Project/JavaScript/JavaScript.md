@@ -1,6 +1,9 @@
 JavaScript
 ==========
 
+[closure-library](https://github.com/Ju2ender/closure-library)    
+Google's common JavaScript library [http://code.google.com/closure/library/](http://code.google.com/closure/library/)
+
 [js-cookie](https://github.com/Ju2ender/js-cookie)    
 jQuery Cookie 的开发者写的不依赖 jQuery 的版本。是啊，又何必依赖 jQuery 呢？
 
