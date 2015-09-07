@@ -1,6 +1,9 @@
 User
 ====
 
+[Evan Martin](https://github.com/martine?tab=repositories)    
+[ninja](https://github.com/Ju2ender/ninja) 的作者。
+
 [Bret Victor](https://github.com/worrydream)
 苹果公司的一位设计师，Swift 因他而生。具体可详见[Bret Victor – Inventing on Principle][4]，[Bret Victor – Learnable Programming][5]
 
