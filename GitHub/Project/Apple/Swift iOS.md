@@ -1,6 +1,9 @@
 Swift iOS
 =========
 
+[SwiftGuide](https://github.com/Ju2ender/SwiftGuide)    
+这份指南汇集了Swift语言主流学习资源，并以开发者的视角整理编排。
+
 [HackerNews](https://github.com/Ju2ender/HackerNews)    
 HackerNews iOS 阅读器。
 
