@@ -1,6 +1,9 @@
 Game
 ====
 
+[StarCraft](https://github.com/Ju2ender/StarCraft)    
+星际争霸 HTML5 版。
+
 [DOOM-iOS](https://github.com/Ju2ender/DOOM-iOS)    
 毁灭公爵 iOS 版。
 
