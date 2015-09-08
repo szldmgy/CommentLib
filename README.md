@@ -1,6 +1,18 @@
 CommentLib
 ==========
 
+iOS JavaScript call Objective-C    
+* [How to call Objective-C from Javascript?](http://stackoverflow.com/questions/1662473/how-to-call-objective-c-from-javascript)
+* [How to invoke Objective C method from Javascript and send back data to Javascript in iOS?](http://stackoverflow.com/questions/9826792/how-to-invoke-objective-c-method-from-javascript-and-send-back-data-to-javascrip)
+
+Android Java call JavaScript    
+* [Android Calling JavaScript functions in WebView](http://stackoverflow.com/questions/4325639/android-calling-javascript-functions-in-webview)
+* [How to call javascript from Android?](http://stackoverflow.com/questions/7544671/how-to-call-javascript-from-android)
+
+Android JavaScript call Java    
+* [Call Java function from JavaScript over Android WebView](http://stackoverflow.com/questions/10389572/call-java-function-from-javascript-over-android-webview)
+* [Android - Calling Java from Webview](http://stackoverflow.com/questions/16030737/android-calling-java-from-webview)
+
 学习 jQuery 项目的构建方式对我们自己的项目是很有帮助的，jQuery 的构建方式代表了最前沿、
 最优的 Web Front-end 项目构建方式。这两天的任务就是要把 jQuery 的构建方式总结出来。
 
