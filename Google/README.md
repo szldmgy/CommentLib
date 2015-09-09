@@ -1,6 +1,3 @@
-Google
-======
-
 这里讲述 Google 的使用技巧。
 
 在某个特定的网站中搜索内容
@@ -14,3 +11,8 @@ site:w3schools.com.cn background-size
 ```
 
 注意，site: 后面不要有空格。
+
+Chrome
+------
+
+插件页访问地址：`chrome://plugins/`
