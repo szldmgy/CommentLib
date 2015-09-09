@@ -1,6 +1,9 @@
 Ruby
 ====
 
+[erlectricity](https://github.com/Ju2ender/erlectricity)    
+Ruby 与 Erlang 的桥梁。
+
 [travis.rb](https://github.com/Ju2ender/travis.rb)
 分布式项目构建工具。
 
