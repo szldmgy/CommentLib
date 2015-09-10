@@ -1,6 +1,10 @@
 User
 ====
 
+[Way Lau](https://github.com/waylau?tab=repositories)    
+A Software Engineer and Full Stack Developer.Now work and live in Huizhou, Guangdong, China.    
+他的博客不错。[http://www.waylau.com/](http://www.waylau.com/)
+
 [Evan Martin](https://github.com/martine?tab=repositories)    
 [ninja](https://github.com/Ju2ender/ninja) 的作者。
 
