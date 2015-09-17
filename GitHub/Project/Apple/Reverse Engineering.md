@@ -1,6 +1,15 @@
 Reverse Engineering
 ===================
 
+Book
+----
+
+[iOSAppReverseEngineering](https://github.com/iosre/iOSAppReverseEngineering)    
+iOS 逆向工程英文版。
+
+Other
+-----
+
 [iPhone Private Frameworks](https://github.com/Ju2ender/iphone-private-frameworks)
 iOS 私有库列表。但是上面说只支持 iPhoneOS 3.x 4.x 暂不支持。iPhoneOS 是 iOS 的旧称，还是 3.x，
 iOS 如今已经 8.x 了。所以此库过于陈旧，新版见 fork 原始库指引，便是下面一个库
