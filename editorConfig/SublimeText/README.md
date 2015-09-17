@@ -15,3 +15,8 @@ Sublime Text 中 User Key Bindings 存放于 Packages/User/Default ([Platform]).
 Linux   平台为：Default (Linux).sublime-keymap    
 OS X    平台为：Default (OSX).sublime-keymap    
 Windows 平台为：Default (Windows).sublime-keymap    
+
+技巧
+----
+
+正则搜索：比如想搜索所有的 `/* Dec 2011 */`，那就输入 `\*\s[a-z]{1,}[0-9]{1,}\s\*`
