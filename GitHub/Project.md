@@ -9,18 +9,25 @@ Learn
 [learn-with-open-source](https://github.com/Ju2ender/learn-with-open-source)
 借助开源项目，学习软件开发。
 
-[free-programming-books][29]: 免费编程书籍。
+[free-programming-books][29]    
+免费编程书籍。
 
-[yinwang0-blog-cn](https://github.com/Ju2ender/yinwang0-blog-cn)
+[yinwang0-blog-cn](https://github.com/Ju2ender/yinwang0-blog-cn)    
 王垠早期的个人博客副本。
 
-[DeepLearning](https://github.com/Ju2ender/DeepLearning)
+[DeepLearning](https://github.com/Ju2ender/DeepLearning)    
 深度学习 C、C++、Java、Scala、Python、Go。
 
 [objective-c-style-guide-1](https://github.com/Ju2ender/objective-c-style-guide-1)
 
 [TeamTalk](http://tt.mogu.io/)
 ------------------------------
+
+TeamTalk 项目迁移 到 mogujie 团队帐号下，之前分开的 iOS、Android、Server 等项目合并到一个项目中，
+最新的项目：
+
+[TeamTalk](https://github.com/Ju2ender/TeamTalk)    
+TeamTalk is a solution for enterprise IM
 
 列举蘑菇街的开源内部沟通工具 TeamTalk 的相关项目。
 
