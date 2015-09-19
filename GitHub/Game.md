@@ -1,6 +1,12 @@
 Game
 ====
 
+[tankwar](https://github.com/Ju2ender/tankwar)    
+Cocos2d-x 编写的 90 坦克。
+
+[EarthWarrior3D](https://github.com/Ju2ender/EarthWarrior3D)    
+Cocos2d-x 编写的游戏。
+
 [StarCraft](https://github.com/Ju2ender/StarCraft)    
 星际争霸 HTML5 版。
 
