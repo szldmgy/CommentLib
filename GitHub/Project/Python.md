@@ -1,10 +1,17 @@
 Python
 ======
 
-[Pyobjus](https://github.com/Ju2ender/pyobjus)
-让 Python 能够访问 Objective-C 中的类。
-[Document](https://pyobjus.readthedocs.org/en/latest/)
-[Document 2](https://pythonhosted.org/pyobjc/)
+Documents
+---------
+
+[PyZh](https://github.com/Ju2ender/PyZh)    
+Python 技术文章翻译。
+
+-------------------------------------------------------------------
+[Pyobjus](https://github.com/Ju2ender/pyobjus)    
+让 Python 能够访问 Objective-C 中的类。    
+[Document](https://pyobjus.readthedocs.org/en/latest/)    
+[Document 2](https://pythonhosted.org/pyobjc/)    
 
 [Django](https://github.com/Ju2ender/django)
 Python Web 开发中很有名的一个框架。
